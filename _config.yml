@@ -63,7 +63,7 @@ author:
   bio    : "Jesteśmy wspólnotą właścicieli mieszkań w kamienicy położonej przy ulicy Dąbrowskiego 96 na Poznańskich Jeżycach."
   links:
     - label: "Grupa mieszkańców"
-      icon: "fas fa-fw fa-fb"
+      icon: "fas fa-fw fa-facebook-square"
       url: "https://bit.ly/dabrowskiego"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
