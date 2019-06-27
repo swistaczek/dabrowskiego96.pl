@@ -10,4 +10,4 @@ Bieżące tematy poruszamy na dedykowanej [grupie mieszkańców w serwisie społ
 
 Na podwórku obowiązuje zakaz parkowania samochodów, możliwe są dostawy do lokali usługowych, wygodny załadunek/rozładunek podczas przeprowadzki i remontów. Do części wspólnych budynku należą korytarze, podwórko oraz zaplecze kotłowni.
 
-Zarząd wspólnoty stanowi Ernest Bursa, budynek jest administrowany przez [firmę Pani Patrycji Kucharskiej](http://nieruchomoscipk.pl).
+Zarząd wspólnoty stanowi Ernest Bursa (tel. 793 376 378), budynek jest administrowany przez [firmę Pani Patrycji Kucharskiej](http://nieruchomoscipk.pl) (tel. 507 369 487).
