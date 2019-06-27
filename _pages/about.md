@@ -1,8 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "O nas"
 ---
+Jesteśmy wspólnotą właścicieli mieszkań w kamienicy położonej na ulicy Dąbrowskiego 96 na Poznańskich Jeżycach. Stawiamy na bezpośrednią i bieżącą komunikację, chcemy by każdy mieszkaniec i właściciel czuł się częścią wspólnoty odpowiedzialnej za relacje sąsiedzkie, dobry stan techniczny i estetykę naszej kamienicy.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Stawiamy na inicjatywy tak by każdy mieszkaniec niezależnie od tego czy jest właścicielem lub wynajmującym mieszkanie mógł stworzyć idealne miejsce do życia dla siebie i swoich bliskich. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Bieżące tematy poruszamy na dedykowanej [grupie mieszkańców w serwisie społecznościowym facebook](http://bit.ly/dabrowskiego) otwartym dla mieszkańców i właścicieli mieszkań.
+
+Do części wspólnych budynku należą korytarze, podwórko oraz zaplecze kotłowni. 
+
+Zarząd wspólnoty stanowi Ernest Bursa, budynek jest administrowany przez [firmę Pani Patrycji Kucharskiej](http://nieruchomoscipk.pl).
