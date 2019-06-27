@@ -8,6 +8,6 @@ Stawiamy na inicjatywy tak by każdy mieszkaniec niezależnie od tego czy jest w
 
 Bieżące tematy poruszamy na dedykowanej [grupie mieszkańców w serwisie społecznościowym facebook](http://bit.ly/dabrowskiego) otwartym dla mieszkańców i właścicieli mieszkań.
 
-Do części wspólnych budynku należą korytarze, podwórko oraz zaplecze kotłowni. 
+Na podwórku obowiązuje zakaz parkowania samochodów, możliwe są dostawy do lokali usługowych, wygodny załadunek/rozładunek podczas przeprowadzki i remontów. Do części wspólnych budynku należą korytarze, podwórko oraz zaplecze kotłowni.
 
 Zarząd wspólnoty stanowi Ernest Bursa, budynek jest administrowany przez [firmę Pani Patrycji Kucharskiej](http://nieruchomoscipk.pl).
