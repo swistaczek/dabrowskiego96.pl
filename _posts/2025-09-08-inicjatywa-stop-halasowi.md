@@ -1,5 +1,5 @@
 ---
-title: "Sąsiedzka inicjatywa „Stop hałasowi w Poznaniu!""
+title: "Sąsiedzka inicjatywa \"Stop hałasowi w Poznaniu!\""
 date: 2025-09-08T14:00:00+02:00
 categories:
   - aktualności
