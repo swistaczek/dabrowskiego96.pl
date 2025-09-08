@@ -3,5 +3,7 @@ main:
     url: /posts/
   - title: "O nas"
     url: /about/
+  - title: "Dzielnica Jeżyce"
+    url: /jezyce/
   - title: "Zamówienia / Przetargi"
     url: /przetargi/
