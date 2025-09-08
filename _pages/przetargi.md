@@ -7,6 +7,8 @@ toc: false
 
 ## Dostawa i montaż ciepłomierzy
 
+![Montaż ciepłomierzy ultradźwiękowych](/assets/images/cieplomierze-montaz.jpg)
+
 Wspólnota Mieszkaniowa Dąbrowskiego 96 ogłasza zapytanie ofertowe na dostawę i montaż ciepłomierzy ultradźwiękowych w budynku przy ul. Dąbrowskiego 96 w Poznaniu.
 
 ### Zakres zamówienia
