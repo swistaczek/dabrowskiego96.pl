@@ -3,3 +3,5 @@ main:
     url: /posts/
   - title: "O nas"
     url: /about/
+  - title: "Zamówienia / Przetargi"
+    url: /przetargi/
