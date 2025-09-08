@@ -5,6 +5,8 @@ categories:
   - blog
 tags:
   - wspolnota
+header:
+  teaser: /assets/images/spolecznosc-sasiedzi.jpg
 ---
 Bardzo nam miło że poszukujesz informacji o naszej wspólnocie. Pierwszym źródłem informacji skierowanym do właścicieli mieszkań jest [lista subskrybcyjna][mailchimp], oprócz tego na co dzień komunikujemy się za pomocą [dedykowanej grupy mieszkańców w serwisie Facebook][fb-group].
 

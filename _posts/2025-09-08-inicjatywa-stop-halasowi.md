@@ -10,6 +10,8 @@ tags:
   - inicjatywa
   - Poznań
 excerpt: "Wspólnota mieszkaniowa Dąbrowskiego 96 zaprasza mieszkańców do wsparcia lokalnej akcji przeciw hałasowi nocnemu organizowanej przez społeczność Jeżyc."
+header:
+  teaser: /assets/images/stop-halasowi.jpg
 ---
 
 Wspólnota mieszkaniowa Dąbrowskiego 96 zaprasza mieszkańców do wsparcia lokalnej akcji przeciw hałasowi nocnemu organizowanej przez społeczność Jeżyc. Pełne informacje i harmonogram działań dostępne są na stronie:  

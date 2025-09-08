@@ -5,5 +5,7 @@ categories:
   - blog
 tags:
   - wspolnota
+header:
+  teaser: /assets/images/zakaz-parkowania.jpg
 ---
 Zgodnie z uchwałą wspólnoty mieszkaniowej informujemy iż parkowanie na terenie podwórka za kamienicą położoną przy ul. Dąbrowskiego 96 w Poznaniu jest niemożliwe. Mieszkańcy mogą korzystać z podwórka do chwilowego postoju na czas załadunku/wyładunku zakupów, dostaw bądź przeprowadzek. 
