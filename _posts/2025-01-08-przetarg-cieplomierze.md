@@ -41,7 +41,7 @@ Poszukujemy doświadczonego wykonawcy, który zapewni:
 
 Pełna specyfikacja zapytania ofertowego oraz wszystkie szczegóły techniczne dostępne są na dedykowanej stronie:
 
-[**Zobacz pełne zapytanie ofertowe →**](/przetargi/)
+[**Zobacz pełne zapytanie ofertowe →**](/przetarg-cieplomierze/)
 
 ### Kontakt w sprawie oferty:
 **Patrycja Kucharska** (Koordynator)  
