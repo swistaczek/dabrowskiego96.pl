@@ -57,7 +57,7 @@ toc: true
 
 ## 5. Termin i sposób składania ofert
 
-- **Termin:** do dnia **30 września 2025 r.** do godz. **12:00**
+- **Termin:** do dnia **<span class="deadline-date">30 września 2025 r., godz. 12:00</span>**
 - **Sposób:** na adres e-mail: **biuro@nieruchomoscipk.pl**
 - **Temat wiadomości:** "Oferta – remont dachu oficyny Dąbrowskiego 96"
 
@@ -87,3 +87,5 @@ E-mail: zarzad@dabrowskiego96.pl
 ---
 
 *Niniejsze zapytanie ofertowe nie stanowi oferty w rozumieniu przepisów Kodeksu Cywilnego i jest skierowane do wykonawców posiadających odpowiednie doświadczenie w realizacji podobnych inwestycji.*
+
+<script src="/assets/js/deadline.js"></script>

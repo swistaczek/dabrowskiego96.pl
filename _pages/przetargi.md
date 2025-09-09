@@ -66,7 +66,7 @@ Wspólnota Mieszkaniowa Dąbrowskiego 96/96A ogłasza zapytanie ofertowe na komp
 - 6 kominów wentylacyjnych
 - System odwodnienia
 
-**Termin składania ofert:** 30 września 2025 r., godz. 12:00
+**Termin składania ofert:** <span class="deadline-date">30 września 2025 r., godz. 12:00</span>
 
 ### Szczegóły zapytania
 
@@ -87,3 +87,5 @@ E-mail: zarzad@dabrowskiego96.pl
 ---
 
 *Zapraszamy do wizji lokalnej po wcześniejszym umówieniu terminu. Wspólnota zastrzega sobie prawo wyboru najkorzystniejszej oferty.*
+
+<script src="/assets/js/deadline.js"></script>

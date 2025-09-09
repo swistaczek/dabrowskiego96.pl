@@ -33,7 +33,7 @@ Poszukujemy wykonawcy do realizacji pełnego zakresu prac związanych z remontem
 
 ## Termin składania ofert
 
-**Do 30 września 2025 r., godz. 12:00**
+**Do <span class="deadline-date">30 września 2025 r., godz. 12:00</span>**
 
 ## Dlaczego warto złożyć ofertę?
 
@@ -61,3 +61,5 @@ Patrycja Kucharska
 ---
 
 *Zapraszamy do wizji lokalnej po wcześniejszym umówieniu terminu. Wspólnota zastrzega sobie prawo wyboru najkorzystniejszej oferty oraz negocjacji warunków umowy.*
+
+<script src="/assets/js/deadline.js"></script>
