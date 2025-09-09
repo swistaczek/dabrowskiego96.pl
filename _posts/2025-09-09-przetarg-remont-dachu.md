@@ -10,6 +10,9 @@ tags:
   - oficyna
   - zamówienia
 excerpt: "Wspólnota Mieszkaniowa Dąbrowskiego 96/96A zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny - demontaż papy, wymiana pokrycia, izolacja termiczna."
+description: "Zapytanie ofertowe na remont 200m² dachu oficyny. Demontaż papy, papa termozgrzewalna, izolacja PIR 10cm. Termin do końca miesiąca."
+keywords: "przetarg remont dachu, oficyna Poznań, papa termozgrzewalna"
+image: /assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg
 ---
 
 Szanowni Mieszkańcy i Wykonawcy,

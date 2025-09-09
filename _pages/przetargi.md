@@ -35,21 +35,15 @@ toc: false
   </div>
 </div>
 
+<!-- Sekcja zakończonych przetargów - będzie aktywna gdy pojawią się zakończone postępowania
 <div class="tender-section">
   <h2>📁 Zakończone przetargi</h2>
   
   <div class="tender-cards">
-    <!-- Tu będą dodawane zakończone przetargi -->
-    <div class="tender-card closed">
-      <div class="tender-meta">
-        <span class="tender-status status-closed">Zakończony</span>
-        <span style="color: #6c757d;">Rozstrzygnięty: 15.10.2024</span>
-      </div>
-      <h3>Przykładowy zakończony przetarg</h3>
-      <p>Opis zakończonego przetargu - obecnie brak zakończonych postępowań.</p>
-    </div>
+    <p style="color: #6c757d; padding: 20px;">Obecnie brak zakończonych postępowań przetargowych.</p>
   </div>
 </div>
+-->
 
 ## Informacje ogólne
 

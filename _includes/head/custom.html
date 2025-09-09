@@ -76,8 +76,8 @@
 </script>
 {% endif %}
 
-<!-- Page-specific JSON-LD -->
-{% if page.url contains "przetarg" %}
+<!-- Page-specific JSON-LD for Tender pages -->
+{% if page.url contains "przetarg" and page.url != "/przetargi/" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

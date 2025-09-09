@@ -9,6 +9,8 @@ tags:
   - bezpieczeństwo
   - modernizacja
 excerpt: "W naszej wspólnocie zamontowaliśmy nowoczesne czujniki dymu rozmieszczone co dwa piętra, skomunikowane radiowo dla maksymalnego bezpieczeństwa."
+description: "Nowy system czujników dymu w kamienicy Dąbrowskiego 96. Czujniki co dwa piętra, komunikacja radiowa, alarm w całym budynku."
+image: /assets/images/czujniki-dymu.jpg
 ---
 
 Szanowni Mieszkańcy,
