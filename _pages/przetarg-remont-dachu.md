@@ -5,6 +5,7 @@ description: "Kompleksowy remont dachu oficyny Poznań - Wspólnota Mieszkaniowa
 toc: true
 ---
 
+![Remont dachu budynków oficyny](/assets/images/remont-dachu-oficyny.jpg)
 
 **Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu** zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny.
 
