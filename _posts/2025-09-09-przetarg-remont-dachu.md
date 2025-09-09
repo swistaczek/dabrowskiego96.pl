@@ -12,8 +12,6 @@ tags:
 excerpt: "Wspólnota Mieszkaniowa Dąbrowskiego 96/96A zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny - demontaż papy, wymiana pokrycia, izolacja termiczna."
 ---
 
-![Remont dachu oficyny](/assets/images/remont-dachu-oficyny.jpg)
-
 Szanowni Mieszkańcy i Wykonawcy,
 
 Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu ogłasza **zapytanie ofertowe** na kompleksowy remont dachu niskich budynków oficyny.
