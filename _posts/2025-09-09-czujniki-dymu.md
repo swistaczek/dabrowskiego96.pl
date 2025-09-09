@@ -1,6 +1,6 @@
 ---
 title: "Bezpieczniejsze mieszkania - nowe czujniki dymu w budynku"
-date: 2025-09-09T14:00:00+01:00
+date: 2025-09-09T10:00:00+01:00
 categories:
   - bezpieczeństwo
   - ogłoszenia
