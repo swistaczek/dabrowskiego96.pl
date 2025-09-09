@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /generated_imgs/
+
+# Sitemap
+Sitemap: https://dabrowskiego96.pl/sitemap.xml
+
+# Crawl-delay for bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10

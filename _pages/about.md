@@ -1,6 +1,9 @@
 ---
 permalink: /about/
-title: "O nas"
+title: "O Wspólnocie - Dąbrowskiego 96 Poznań"
+description: "Poznaj naszą wspólnotę mieszkaniową na Jeżycach. Historyczna kamienica z 1910 roku, 44 lokale, aktywna społeczność. Dołącz do grupy mieszkańców!"
+keywords: "wspólnota mieszkaniowa Poznań, Dąbrowskiego 96, kamienica Jeżyce, społeczność lokalna"
+image: /assets/images/wspolnota.jpg
 ---
 Jesteśmy wspólnotą właścicieli mieszkań w kamienicy położonej na ulicy Dąbrowskiego 96 na Poznańskich Jeżycach. Stawiamy na bezpośrednią i bieżącą komunikację, chcemy by każdy mieszkaniec i właściciel czuł się częścią wspólnoty odpowiedzialnej za relacje sąsiedzkie, dobry stan techniczny i estetykę naszej kamienicy.
 

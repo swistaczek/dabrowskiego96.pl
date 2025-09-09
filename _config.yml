@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Zarząd wspólnoty"
@@ -82,6 +83,24 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dabrowskiego96"
+
+# SEO Related
+url: "https://dabrowskiego96.pl"
+twitter:
+  username: dabrowskiego96
+  card: summary_large_image
+
+facebook:
+  publisher: https://www.facebook.com/groups/dabrowskiego96
+  
+social:
+  name: Wspólnota Mieszkaniowa Dąbrowskiego 96
+  links:
+    - https://instagram.com/dabrowskiego96
+    - https://www.facebook.com/groups/dabrowskiego96
+    - https://bit.ly/dabrowskiego
+
+logo: /assets/images/logo.png
       
 defaults:
   # _posts

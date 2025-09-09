@@ -1,7 +1,9 @@
 ---
 permalink: /przetarg-remont-dachu/
-title: "Zapytanie Ofertowe – Remont Dachu Niskich Budynków Oficyny"
-description: "Kompleksowy remont dachu oficyny Poznań - Wspólnota Mieszkaniowa Dąbrowskiego 96/96A ogłasza zapytanie ofertowe na demontaż papy, wymianę pokrycia dachowego i montaż izolacji termicznej"
+title: "Przetarg - Remont Dachu Oficyny 200m² | Dąbrowskiego 96 Poznań"
+description: "Zapytanie ofertowe na kompleksowy remont 200m² dachu oficyny: demontaż papy, papa termozgrzewalna, izolacja PIR 10cm, 6 kominów. Termin do końca miesiąca."
+keywords: "remont dachu Poznań, przetarg dach oficyna, papa termozgrzewalna, izolacja PIR, wykonawca dekarstwo"
+image: /assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg
 toc: true
 ---
 

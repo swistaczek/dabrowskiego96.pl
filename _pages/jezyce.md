@@ -1,8 +1,9 @@
 ---
 permalink: /jezyce/
-title: "Dzielnica Jeżyce - Historia, Architektura i Życie w Poznaniu"
-description: "Poznaj Jeżyce - wyjątkową dzielnicę Poznania z secesyjną architekturą, bogatą historią od XIII wieku, parkami i tętniącym życiem kulturalnym. Dąbrowskiego 96 w sercu Jeżyc."
-keywords: "Jeżyce Poznań, dzielnica Jeżyce, kamienice Jeżyce, architektura secesyjna Poznań, Dąbrowskiego Jeżyce, historia Jeżyc, parki Jeżyce, mieszkania Jeżyce, życie kulturalne Jeżyce"
+title: "Jeżyce Poznań - Historia i Życie Dzielnicy | Dąbrowskiego 96"
+description: "Odkryj Jeżyce - dzielnicę Poznania z XIII-wieczną historią, secesyjną architekturą, parkami i bogatym życiem kulturalnym. Dąbrowskiego 96 w sercu historycznych Jeżyc."
+keywords: "Jeżyce Poznań, dzielnica Jeżyce, historia Jeżyc, architektura secesyjna, Park Sołacki, Rynek Jeżycki, kamienice Jeżyce"
+image: /assets/images/jezyce-2025.jpg
 toc: false
 ---
 

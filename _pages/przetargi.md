@@ -1,7 +1,9 @@
 ---
 permalink: /przetargi/
-title: "Zamówienia / Przetargi"
-description: "Aktualne przetargi i zapytania ofertowe - Wspólnota Mieszkaniowa Dąbrowskiego 96 w Poznaniu"
+title: "Przetargi i Zapytania Ofertowe - Dąbrowskiego 96 Poznań"
+description: "Aktualne przetargi wspólnoty mieszkaniowej: remont dachu oficyny 200m², montaż 44 ciepłomierzy. Zapraszamy wykonawców do składania ofert."
+keywords: "przetargi Poznań, zapytania ofertowe wspólnota, remont dachu, montaż ciepłomierzy, Dąbrowskiego 96"
+image: /assets/images/przetargi-og.jpg
 toc: false
 ---
 

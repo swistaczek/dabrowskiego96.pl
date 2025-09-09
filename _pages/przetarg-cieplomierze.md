@@ -1,7 +1,9 @@
 ---
 permalink: /przetarg-cieplomierze/
-title: "Zapytanie Ofertowe – Dostawa i montaż ciepłomierzy"
-description: "Kompleksowa wymiana podzielników ciepła na ciepłomierze ultradźwiękowe - Wspólnota Mieszkaniowa Dąbrowskiego 96 ogłasza zapytanie ofertowe"
+title: "Przetarg - Montaż 44 Ciepłomierzy | Oszczędność 15-25% | Dąbrowskiego 96"
+description: "Wymiana 123 podzielników na 44 ciepłomierze ultradźwiękowe. Precyzyjne rozliczanie, oszczędność 15-25% na ogrzewaniu. Zapytanie ofertowe dla wykonawców."
+keywords: "ciepłomierze Poznań, wymiana podzielników, ciepłomierze ultradźwiękowe, montaż ciepłomierzy, przetarg ogrzewanie"
+image: /assets/images/cieplomierze-montaz.jpg
 toc: true
 ---
 
