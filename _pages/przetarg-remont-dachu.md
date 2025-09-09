@@ -9,6 +9,37 @@ toc: true
 
 **Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu** zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny.
 
+## Dokumentacja fotograficzna stanu obecnego
+
+Poniżej przedstawiamy dokumentację fotograficzną obecnego stanu dachu, ilustrującą zakres koniecznych prac remontowych. Kliknij na zdjęcie, aby je powiększyć.
+
+<div class="roof-gallery">
+  <figure>
+    <img src="/assets/images/remont-dachu/stan-obecny-attyka-uszkodzenie.jpg" alt="Uszkodzenie attyki dachowej">
+    <figcaption>Poważne uszkodzenie attyki z widoczną dziurą w betonowej czapie, wymagające pilnej naprawy ze względu na ryzyko przecieków</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/remont-dachu/stan-obecny-obrobka-blacharska.jpg" alt="Stan obróbki blacharskiej">
+    <figcaption>Skorodowana obróbka blacharska przy krawędzi dachu z widocznymi śladami korozji i zużycia, wymagająca kompleksowej wymiany</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg" alt="Stan pokrycia dachowego">
+    <figcaption>Postępująca degradacja pokrycia papowego z pęknięciami i ubytkami, umożliwiająca wnikanie wody</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/remont-dachu/stan-obecny-przylaczenie-dachu.jpg" alt="Przyłączenie dachu do ściany">
+    <figcaption>Niewłaściwe uszczelnienie styku dachu ze ścianą budynku, gromadzenie się liści i zanieczyszczeń sprzyjające zatrzymywaniu wody</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/remont-dachu/stan-obecny-system-odwodnienia.jpg" alt="System odwodnienia dachu">
+    <figcaption>Niedrożny system odprowadzania wody z widocznymi pęknięciami w obróbce, powodujący zalewanie konstrukcji</figcaption>
+  </figure>
+</div>
+
 ## 1. Przedmiot zamówienia
 
 - Demontaż istniejącego pokrycia papowego na dachach trzech budynków oficyny (łączna powierzchnia ok. 200 m²).
@@ -88,4 +119,6 @@ E-mail: zarzad@dabrowskiego96.pl
 
 *Niniejsze zapytanie ofertowe nie stanowi oferty w rozumieniu przepisów Kodeksu Cywilnego i jest skierowane do wykonawców posiadających odpowiednie doświadczenie w realizacji podobnych inwestycji.*
 
+<link rel="stylesheet" href="/assets/css/gallery.css">
 <script src="/assets/js/deadline.js"></script>
+<script src="/assets/js/lightbox.js"></script>
