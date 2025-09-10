@@ -117,6 +117,9 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 - Uprawnienia instalacyjne
 - Certyfikaty jakości oferowanych urządzeń
 
+### Referencje po wykonaniu prac
+✅ **Wspólnota wystawia referencje** dla wykonawców, którzy rzetelnie i terminowo zrealizują zamówienie. Referencje mogą być wykorzystane w przyszłych przetargach i postępowaniach ofertowych.
+
 ## 5. Harmonogram realizacji
 
 | Etap | Czas realizacji |

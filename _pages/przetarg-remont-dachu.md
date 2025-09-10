@@ -114,6 +114,7 @@ E-mail: zarzad@dabrowskiego96.pl
 - Wspólnota zastrzega sobie prawo do unieważnienia postępowania bez podania przyczyny.
 - Wykonawca zostanie wybrany w terminie do 14 dni od zakończenia przyjmowania ofert.
 - O wynikach postępowania wszyscy oferenci zostaną powiadomieni drogą elektroniczną.
+- **Referencje po wykonaniu prac:** Wspólnota wystawia referencje dla wykonawców, którzy rzetelnie i terminowo zrealizują zlecenie. Referencje mogą być wykorzystane w przyszłych przetargach i postępowaniach ofertowych.
 
 ---
 
