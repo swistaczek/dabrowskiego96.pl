@@ -22,6 +22,40 @@ toc: true
 | Łączna liczba podzielników | 123 |
 | Planowana liczba ciepłomierzy | 44 |
 
+### Stan istniejący szachtów instalacyjnych
+
+Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy, w których będą montowane ciepłomierze:
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+
+<div>
+<img src="/assets/images/szacht-instalacyjny-1.jpg" alt="Szacht instalacyjny z pionowymi rurami i zaworami odcinającymi" style="width: 100%; border-radius: 8px;">
+<p style="font-size: 14px; color: #666; margin-top: 10px;"><strong>Szacht główny:</strong> Pionowe prowadzenie rur wodnych z zaworami odcinającymi (czerwone uchwyty). Widoczne numeracje lokali i izolacja termiczna.</p>
+</div>
+
+<div>
+<img src="/assets/images/szacht-instalacyjny-2.jpg" alt="Szacht z metalowymi drzwiczkami" style="width: 100%; border-radius: 8px;">
+<p style="font-size: 14px; color: #666; margin-top: 10px;"><strong>Szacht z drzwiczkami:</strong> Metalowe drzwiczki umożliwiające dostęp do instalacji. Widoczne czerwone uchwyty zaworów.</p>
+</div>
+
+<div>
+<img src="/assets/images/szacht-instalacyjny-3.jpg" alt="Szacht z trzema poziomami instalacji" style="width: 100%; border-radius: 8px;">
+<p style="font-size: 14px; color: #666; margin-top: 10px;"><strong>Układ trójpoziomowy:</strong> Szacht z otwartymi drzwiczkami, pokazujący trzy poziomy instalacji z czerwonymi zaworami kulowymi i numeracją.</p>
+</div>
+
+<div>
+<img src="/assets/images/szacht-instalacyjny-4.jpg" alt="Kolejny szacht z układem trójpoziomowym" style="width: 100%; border-radius: 8px;">
+<p style="font-size: 14px; color: #666; margin-top: 10px;"><strong>Podobny układ:</strong> Trzy poziomy instalacji z białymi rurami PCV, zaworami odcinającymi i czytelną numeracją lokali.</p>
+</div>
+
+</div>
+
+**Uwagi dotyczące montażu:**
+- Szachty są łatwo dostępne i posiadają wystarczającą przestrzeń roboczą
+- Istniejące zawory odcinające pozwalają na izolację podczas montażu
+- Czytelna numeracja ułatwia identyfikację przyłączy do poszczególnych lokali
+- Stan techniczny instalacji jest dobry i nie wymaga dodatkowych prac przygotowawczych
+
 ### Zakres prac do wykonania
 
 1. **Demontaż** 123 podzielników ciepła
@@ -128,9 +162,17 @@ Oferta powinna zawierać:
 ## 9. Wizja lokalna
 
 Zalecamy przeprowadzenie wizji lokalnej w celu:
-- Oceny stanu instalacji
+- Oceny stanu instalacji i szachtów instalacyjnych
 - Weryfikacji ilości i lokalizacji punktów pomiarowych
-- Określenia optymalnych miejsc montażu
+- Określenia optymalnych miejsc montażu ciepłomierzy
+- **Oględzin szachtów instalacyjnych** - dostęp do wszystkich szachtów przedstawionych na zdjęciach powyżej
+- Sprawdzenia przestrzeni roboczej i warunków montażu
+- Weryfikacji kompatybilności z istniejącymi zaworami odcinającymi
+
+**Dodatkowe informacje:**
+- Szachty instalacyjne są łatwo dostępne przez cały dzień roboczy
+- Możliwość dokładnych pomiarów i fotografowania dla potrzeb oferty
+- Koordynator zapewni dostęp do wszystkich pomieszczeń i szachtów
 
 Termin wizji do uzgodnienia z koordynatorem.
 
