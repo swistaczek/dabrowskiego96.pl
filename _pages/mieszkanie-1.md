@@ -88,7 +88,7 @@ Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany p
 | Prąd wg licznika (Enea, G11) | ~100–140 zł / mies (faktura co 2 mies.) |
 | Ogrzewanie miejskie | wg podzielników ciepła (rozliczenie przez administratora) |
 | Internet światłowodowy | w cenie najmu |
-| **Kaucja** | **3 150 zł** (czynsz 2 750 zł + 400 zł na poczet sprzątania) |
+| **Kaucja** | **3 990 zł** (czynsz 2 750 zł + opłaty ~840 zł + sprzątanie 400 zł) — możliwa płatność w **2 ratach**: 2 750 zł przy podpisaniu, 1 240 zł w ciągu 30 dni |
 
 ## Forma najmu
 
