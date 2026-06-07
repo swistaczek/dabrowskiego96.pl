@@ -5,5 +5,7 @@ main:
     url: /about/
   - title: "Dzielnica Jeżyce"
     url: /jezyce/
+  - title: "Wynajem"
+    url: /wynajem/
   - title: "Zamówienia / Przetargi"
     url: /przetargi/
