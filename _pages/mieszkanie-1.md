@@ -62,7 +62,7 @@ toc: true
 
 ## Kuchnia
 
-Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany panel, wyspa z miejscem do jedzenia. Wyposażenie AGD: **piekarnik elektryczny, płyta indukcyjna, lodówka z zamrażalnikiem (No Frost), pralka, ekspres do kawy.** Dużo schowków.
+Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany panel, wyspa z miejscem do jedzenia. Wyposażenie AGD: **piekarnik elektryczny, płyta indukcyjna, lodówka, pralka, ekspres do kawy.** Dużo schowków.
 
 ## Komfort
 
