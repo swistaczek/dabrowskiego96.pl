@@ -1,7 +1,7 @@
 ---
 permalink: /wynajem/mieszkanie-1/
 title: "Mieszkanie 1 - 2 pokoje 47 m² na wynajem | Dąbrowskiego 96 Jeżyce"
-description: "2 pokoje 47 m² na wynajem w kamienicy przy Dąbrowskiego 96, Jeżyce. Umeblowane, balkon, internet w cenie, ogrzewanie miejskie. 2 750 zł/mies, najem okazjonalny, od właściciela, bez prowizji."
+description: "2 pokoje 47 m² na wynajem w kamienicy przy Dąbrowskiego 96, Jeżyce. Umeblowane, balkon, internet w cenie, ogrzewanie miejskie. 2 750 zł/mies, najem okazjonalny, bezpośrednio od właściciela."
 keywords: "mieszkanie na wynajem Jeżyce, 2 pokoje Jeżyce, wynajem Dąbrowskiego Poznań, mieszkanie w kamienicy, umeblowane mieszkanie Jeżyce, balkon, najem okazjonalny"
 image: /assets/images/mieszkanie-1/01-living-room-01.jpg
 toc: true
@@ -9,7 +9,7 @@ toc: true
 
 <link rel="stylesheet" href="/assets/css/gallery.css">
 
-**2 pokoje · 47 m² · 1. piętro przedwojennej kamienicy · Jeżyce, ul. Dąbrowskiego.** W pełni umeblowane, z balkonem i internetem światłowodowym w cenie. Dostępne od zaraz — od właściciela, bez prowizji.
+**2 pokoje · 47 m² · 1. piętro przedwojennej kamienicy · Jeżyce, ul. Dąbrowskiego.** W pełni umeblowane, z balkonem i internetem światłowodowym w cenie. Dostępne od zaraz — bezpośrednio od właściciela.
 
 ## Zdjęcia
 
@@ -100,7 +100,7 @@ Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany p
 
 📱 **+48 720 513 991** — najlepiej **SMS-em**, oddzwonimy w ciągu doby.
 
-Od właściciela, bez prowizji.
+Bezpośrednio od właściciela.
 
 ---
 
