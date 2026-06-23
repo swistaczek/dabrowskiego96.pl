@@ -58,7 +58,7 @@ toc: true
 - Osobna sypialnia z dużą zabudową, widok na ciche, zielone podwórze
 - Łazienka z prysznicem walk-in z deszczownicą, podwieszanym WC i podświetleniem LED
 - Przedpokój z drzwiami antywłamaniowymi
-- Lite sosnowe deski na podłodze, wysokie sufity, okna PCV, drewniane drzwi
+- Lite sosnowe deski na podłodze, wysokie sufity, okna PCV (gwarantują ciszę), drewniane drzwi
 
 ## Kuchnia
 
@@ -74,7 +74,7 @@ Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany p
 
 ## Lokalizacja
 
-- Zamknięte podwórko ze stojakami rowerowymi
+- Zamknięte, zielone podwórko z rowerownią i stojakami rowerowymi
 - Kawiarnia w przyziemiu budynku
 - Przystanek tramwajowy **Polna** w pobliżu — w kilka minut na Rynek Jeżycki, do centrum, na uczelnie i dworzec
 - Jeżyce: Rynek Jeżycki, piekarnie, restauracje — wszystko pieszo
