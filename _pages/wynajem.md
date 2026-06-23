@@ -17,7 +17,7 @@ Na tej stronie zbieramy **aktualne ogłoszenia wynajmu mieszkań i lokali** w na
   <div class="tender-card active">
     <div class="tender-meta">
       <span class="tender-status status-active">Dostępne od zaraz</span>
-      <span class="tender-deadline">Czynsz: <span class="deadline-date">2 550 zł/mies</span></span>
+      <span class="tender-deadline">Czynsz: <span class="deadline-date">2 500 zł/mies</span></span>
     </div>
     <h3>Mieszkanie 1 — 2 pokoje, 47 m², 1. piętro</h3>
     <p>W pełni umeblowane M2 z balkonem, w przedwojennej kamienicy. Salon z aneksem kuchennym, osobna sypialnia, łazienka z prysznicem walk-in. Internet światłowodowy w cenie, ogrzewanie miejskie. Najem okazjonalny, bezpośrednio od właściciela.</p>
