@@ -52,7 +52,7 @@ Bardzo częsta sytuacja: lokalem zapasowym jest mieszkanie rodziców (np. w inny
 ## Ile Cię to kosztuje
 
 - 💰 **Notariusz:** ~500–630 zł jednorazowo za oświadczenie. **W tym ogłoszeniu koszt aktu dzielony jest po połowie** — płacisz połowę, właściciel połowę.
-- 💰 **Kaucja:** zwrotna po zakończeniu najmu (po rozliczeniu ewentualnych szkód). W tym mieszkaniu: 3 765 zł, z możliwością płatności w 2 ratach.
+- 💰 **Kaucja:** zwrotna po zakończeniu najmu (po rozliczeniu ewentualnych szkód). W tym mieszkaniu: 3 790 zł, z możliwością płatności w 2 ratach.
 - 💰 **Czynsz + opłaty:** wg ogłoszenia.
 
 ## Co podpisujesz — krok po kroku
