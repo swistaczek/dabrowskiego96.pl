@@ -84,9 +84,9 @@ Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany p
 | Pozycja | Kwota |
 |---|---|
 | **Czynsz najmu** | **2 500 zł / mies** (do właściciela) |
-| Opłata administracyjna | ~840 zł / mies (woda + fundusz; ustala wspólnota) |
+| Opłata administracyjna | ~840 zł / mies (woda + fundusz + **zaliczka na ogrzewanie**; ustala wspólnota) |
 | Prąd wg licznika (Enea, G11) | ~100–140 zł / mies (faktura co 2 mies.) |
-| Ogrzewanie miejskie | wg podzielników ciepła (rozliczenie przez administratora) |
+| Ogrzewanie miejskie | w zaliczce administracyjnej; roczne rozliczenie wg podzielników (dopłata/zwrot) |
 | Internet światłowodowy | w cenie najmu |
 | **Kaucja** | **3 740 zł** (czynsz 2 500 zł + opłaty ~840 zł + sprzątanie 400 zł) — możliwa płatność w **2 ratach**: 2 500 zł przy podpisaniu, 1 240 zł w ciągu 30 dni |
 
