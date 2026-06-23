@@ -98,7 +98,9 @@ Na wymiar — fronty ze sklejki brzozowej, czarne blaty, podświetlany szklany p
 
 ## Kontakt
 
-📱 **+48 720 513 991** — najlepiej **SMS-em**, oddzwonimy w ciągu doby.
+📱 **+48 793 376 378** — najlepiej **SMS-em**, oddzwonimy w ciągu doby.
+
+🕐 **Prezentacja mieszkania:** 9:00–12:00 lub 20:00–21:00 — termin po wcześniejszym umówieniu SMS.
 
 Bezpośrednio od właściciela.
 
