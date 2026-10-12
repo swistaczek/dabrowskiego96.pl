@@ -23,11 +23,10 @@ bundle exec jekyll build
 
 ### Git Workflow
 ```bash
-# Always work on gh-pages branch (deployment branch)
+# gh-pages is the only long-lived branch and the deployment branch
 git checkout gh-pages
 
-# The master branch contains a different version (Bootstrap landing page)
-# DO NOT merge between branches
+# Changes go through a short-lived branch and a pull request into gh-pages
 ```
 
 ## Architecture & Structure
@@ -105,5 +104,9 @@ The site automatically deploys to GitHub Pages when pushing to the `gh-pages` br
 Edit `_data/navigation.yml` and add/modify entries under the `main:` key.
 
 ## Branch Information
-- **gh-pages**: Active deployment branch (Jekyll/Minimal Mistakes)
-- **master**: Legacy Bootstrap landing page (DO NOT USE)
+- **gh-pages**: The only branch. Default branch and GitHub Pages source (Jekyll/Minimal Mistakes).
+- The old `master` (untouched Start Bootstrap template from 2019) was removed in October 2026. Its last commit is kept under the tag `szablon-bootstrap-2019`.
+
+## Versions
+- GitHub Pages builds the site in classic mode, so Jekyll and plugin versions are set by GitHub (`github-pages` gem, Jekyll 3.10). They cannot be raised from this repo; Jekyll 4 would need a GitHub Actions build.
+- The theme is pinned in `_config.yml`: `remote_theme: mmistakes/minimal-mistakes@<tag>`. To update the theme, change the tag to a newer release and check the site after the build.
