@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "O nas"
     url: /about/
+  - title: "Zasady"
+    url: /zasady/
   - title: "Dzielnica Jeżyce"
     url: /jezyce/
   - title: "Wynajem"
