@@ -1,11 +1,14 @@
 ---
 permalink: /przetarg-cieplomierze/
-title: "Przetarg - Montaż 44 Ciepłomierzy | Oszczędność 15-25% | Dąbrowskiego 96"
-description: "Wymiana 123 podzielników na 44 ciepłomierze ultradźwiękowe. Precyzyjne rozliczanie, oszczędność 15-25% na ogrzewaniu. Zapytanie ofertowe dla wykonawców."
+title: "Nieaktualny przetarg - Montaż 44 Ciepłomierzy | Oszczędność 15-25% | Dąbrowskiego 96"
+description: "Wymiana 123 podzielników na 44 ciepłomierze ultradźwiękowe. Precyzyjne rozliczanie, oszczędność 15-25% na ogrzewaniu. Zapytanie nieaktualne, ofert nie przyjmujemy."
 keywords: "ciepłomierze Poznań, wymiana podzielników, ciepłomierze ultradźwiękowe, montaż ciepłomierzy, przetarg ogrzewanie"
 image: /assets/images/cieplomierze-montaz.jpg
 toc: true
 ---
+
+**Zapytanie nieaktualne.** Ofert nie przyjmujemy. W marcu 2026 r. projekt ciepłomierzy został wstrzymany. Do końca 2026 r. firma ista ma wymienić podzielniki ciepła na nowe i dalej będzie rozliczać ogrzewanie. Więcej na stronie [Bieżące sprawy i plany](/sprawy-i-plany/).
+{: .notice--warning}
 
 ![Montaż ciepłomierzy ultradźwiękowych](/assets/images/cieplomierze-montaz.jpg)
 

@@ -1,6 +1,8 @@
 main:
   - title: "Aktualności"
     url: /posts/
+  - title: "Sprawy i plany"
+    url: /sprawy-i-plany/
   - title: "O nas"
     url: /about/
   - title: "Zasady"
