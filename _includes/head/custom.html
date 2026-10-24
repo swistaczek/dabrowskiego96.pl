@@ -76,24 +76,6 @@
 </script>
 {% endif %}
 
-<!-- Page-specific JSON-LD for Tender pages -->
-{% if page.url contains "przetarg" and page.url != "/przetargi/" %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Tender",
-  "name": "{{ page.title | escape }}",
-  "description": "{{ page.description | escape }}",
-  "url": "https://dabrowskiego96.pl{{ page.url }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Wspólnota Mieszkaniowa Dąbrowskiego 96"
-  },
-  "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}"
-}
-</script>
-{% endif %}
-
 <!-- News Article JSON-LD for blog posts -->
 {% if page.layout == "single" and page.categories %}
 <script type="application/ld+json">

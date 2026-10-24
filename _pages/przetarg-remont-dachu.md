@@ -1,11 +1,14 @@
 ---
 permalink: /przetarg-remont-dachu/
-title: "Przetarg - Remont Dachu Oficyny 200m² | Dąbrowskiego 96 Poznań"
-description: "Zapytanie ofertowe na kompleksowy remont 200m² dachu oficyny: demontaż papy, papa termozgrzewalna, izolacja PIR 10cm, 6 kominów. Termin do końca miesiąca."
+title: "Zakończony przetarg - Remont Dachu Oficyny 200m² | Dąbrowskiego 96 Poznań"
+description: "Zapytanie ofertowe na kompleksowy remont 200m² dachu oficyny: demontaż papy, papa termozgrzewalna, izolacja PIR 10cm, 6 kominów. Zapytanie zakończone 30 września 2025 r."
 keywords: "remont dachu Poznań, przetarg dach oficyna, papa termozgrzewalna, izolacja PIR, wykonawca dekarstwo"
 image: /assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg
 toc: true
 ---
+
+**Zapytanie zakończone.** Oferty przyjmowaliśmy do 30 września 2025 r. Pełnego remontu na podstawie tego zapytania nie zleciliśmy. Przed zimą 2026/2027 planujemy doraźną naprawę dachu, a pełny remont na wiosnę 2027 r., po uchwale właścicieli. Więcej na stronie [Bieżące sprawy i plany](/sprawy-i-plany/).
+{: .notice--warning}
 
 **Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu** zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny.
 
@@ -88,7 +91,7 @@ Poniżej przedstawiamy dokumentację fotograficzną obecnego stanu dachu, ilustr
 
 ## 5. Termin i sposób składania ofert
 
-- **Termin:** do dnia **<span class="deadline-date">30 września 2025 r., godz. 12:00</span>**
+- **Termin:** do dnia **30 września 2025 r., godz. 12:00** (minął)
 - **Sposób:** na adres e-mail: **biuro@nieruchomoscipk.pl**
 - **Temat wiadomości:** "Oferta – remont dachu oficyny Dąbrowskiego 96"
 
@@ -112,8 +115,6 @@ E-mail: zarzad@dabrowskiego96.pl
 
 - Wspólnota zastrzega sobie prawo wyboru oferty najkorzystniejszej oraz negocjacji warunków umowy.
 - Wspólnota zastrzega sobie prawo do unieważnienia postępowania bez podania przyczyny.
-- Wykonawca zostanie wybrany w terminie do 14 dni od zakończenia przyjmowania ofert.
-- O wynikach postępowania wszyscy oferenci zostaną powiadomieni drogą elektroniczną.
 - **Referencje po wykonaniu prac:** Wspólnota wystawia referencje dla wykonawców, którzy rzetelnie i terminowo zrealizują zlecenie. Referencje mogą być wykorzystane w przyszłych przetargach i postępowaniach ofertowych.
 
 ---
@@ -121,5 +122,4 @@ E-mail: zarzad@dabrowskiego96.pl
 *Niniejsze zapytanie ofertowe nie stanowi oferty w rozumieniu przepisów Kodeksu Cywilnego i jest skierowane do wykonawców posiadających odpowiednie doświadczenie w realizacji podobnych inwestycji.*
 
 <link rel="stylesheet" href="/assets/css/gallery.css">
-<script src="/assets/js/deadline.js"></script>
 <script src="/assets/js/lightbox.js"></script>

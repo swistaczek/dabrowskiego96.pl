@@ -1,11 +1,14 @@
 ---
 permalink: /przetarg-cieplomierze/
-title: "Przetarg - Montaż 44 Ciepłomierzy | Oszczędność 15-25% | Dąbrowskiego 96"
-description: "Wymiana 123 podzielników na 44 ciepłomierze ultradźwiękowe. Precyzyjne rozliczanie, oszczędność 15-25% na ogrzewaniu. Zapytanie ofertowe dla wykonawców."
+title: "Nieaktualne zapytanie: montaż 44 ciepłomierzy | Dąbrowskiego 96 Poznań"
+description: "Zapytanie ofertowe z 2025 r. na 44 ciepłomierze. Nieaktualne, ofert nie przyjmujemy. Podzielniki ciepła wymieni ista."
 keywords: "ciepłomierze Poznań, wymiana podzielników, ciepłomierze ultradźwiękowe, montaż ciepłomierzy, przetarg ogrzewanie"
 image: /assets/images/cieplomierze-montaz.jpg
 toc: true
 ---
+
+**Zapytanie nieaktualne.** Ofert nie przyjmujemy. W marcu 2026 r. projekt ciepłomierzy został wstrzymany. Do końca 2026 r. firma ista ma wymienić podzielniki ciepła na nowe i dalej będzie rozliczać ogrzewanie. Więcej na stronie [Bieżące sprawy i plany](/sprawy-i-plany/).
+{: .notice--warning}
 
 ![Montaż ciepłomierzy ultradźwiękowych](/assets/images/cieplomierze-montaz.jpg)
 
@@ -54,7 +57,6 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 - Szachty są łatwo dostępne i posiadają wystarczającą przestrzeń roboczą
 - Istniejące zawory odcinające pozwalają na izolację podczas montażu
 - Czytelna numeracja ułatwia identyfikację przyłączy do poszczególnych lokali
-- Stan techniczny instalacji jest dobry i nie wymaga dodatkowych prac przygotowawczych
 
 ### Zakres prac do wykonania
 
@@ -67,26 +69,7 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 7. **Uruchomienie** i testy systemu
 8. **Szkolenie** zarządcy z obsługi
 
-## 2. Dlaczego wymieniamy podzielniki?
-
-### Porównanie systemów
-
-| Cecha | Podzielniki ciepła | Ciepłomierze |
-|-------|-------------------|--------------|
-| **Dokładność pomiaru** | Szacunkowa (jednostki) | Rzeczywista (kWh) |
-| **Błąd pomiaru** | Do 30% | Do 2% |
-| **Wpływ lokalizacji** | Bardzo duży | Minimalny |
-| **Koszty rozliczeń** | Wyższe | Niższe o 15-25% |
-| **Zgodność z prawem UE** | Wycofywane | Rekomendowane |
-
-### Korzyści dla mieszkańców
-
-✅ **Sprawiedliwe rozliczenia** - płacisz tylko za rzeczywiste zużycie  
-✅ **Niższe rachunki** - średnio 15-25% oszczędności  
-✅ **Przejrzystość** - odczyty w kWh, łatwe do weryfikacji  
-✅ **Kontrola zużycia** - możliwość bieżącego monitorowania  
-
-## 3. Wymagania techniczne
+## 2. Wymagania techniczne
 
 ### Parametry ciepłomierzy
 
@@ -104,7 +87,7 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 - Plombowanie liczników i przyłączy
 - Dokumentacja fotograficzna każdego punktu pomiarowego
 
-## 4. Wymagania dla wykonawcy
+## 3. Wymagania dla wykonawcy
 
 ### Doświadczenie
 - Minimum **3 lata** w montażu ciepłomierzy
@@ -120,7 +103,7 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 ### Referencje po wykonaniu prac
 ✅ **Wspólnota wystawia referencje** dla wykonawców, którzy rzetelnie i terminowo zrealizują zamówienie. Referencje mogą być wykorzystane w przyszłych przetargach i postępowaniach ofertowych.
 
-## 5. Harmonogram realizacji
+## 4. Harmonogram realizacji
 
 | Etap | Czas realizacji |
 |------|----------------|
@@ -130,7 +113,7 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 | Testy i odbiór | 3 dni |
 | **RAZEM** | **ok. 30 dni** |
 
-## 6. Kryteria oceny ofert
+## 5. Kryteria oceny ofert
 
 | Kryterium | Waga |
 |-----------|------|
@@ -140,7 +123,7 @@ Poniższe zdjęcia przedstawiają fragmenty szachtów instalacyjnych w kamienicy
 | Warunki gwarancji i serwisu | 10% |
 | Termin realizacji | 5% |
 
-## 7. Zawartość oferty
+## 6. Zawartość oferty
 
 Oferta powinna zawierać:
 
@@ -153,16 +136,16 @@ Oferta powinna zawierać:
    - Koszt uruchomienia systemu
 4. **Harmonogram** prac
 5. **Referencje** (minimum 2)
-6. **Dokumenty** wymienione w pkt. 4
+6. **Dokumenty** wymienione w pkt. 3
 7. **Warunki gwarancji** i serwisu pogwarancyjnego
 
-## 8. Termin i sposób składania ofert
+## 7. Termin i sposób składania ofert
 
 📅 **Termin:** do uzgodnienia indywidualnie  
 📧 **E-mail:** biuro@nieruchomoscipk.pl  
 📋 **Temat:** "Oferta - ciepłomierze Dąbrowskiego 96"
 
-## 9. Wizja lokalna
+## 8. Wizja lokalna
 
 Zalecamy przeprowadzenie wizji lokalnej w celu:
 - Oceny stanu instalacji i szachtów instalacyjnych
@@ -179,7 +162,7 @@ Zalecamy przeprowadzenie wizji lokalnej w celu:
 
 Termin wizji do uzgodnienia z koordynatorem.
 
-## 10. Kontakt
+## 9. Kontakt
 
 ### Koordynator projektu
 **Patrycja Kucharska**  
@@ -189,7 +172,7 @@ E-mail: biuro@nieruchomoscipk.pl
 ### Zarząd Wspólnoty
 E-mail: zarzad@dabrowskiego96.pl
 
-## 11. FAQ - Najczęściej zadawane pytania
+## 10. FAQ - Najczęściej zadawane pytania
 
 **P: Czy montaż wymaga wyłączenia ogrzewania?**  
 O: Tak, na krótki czas (ok. 30-60 minut na lokal). Prace planowane są poza sezonem grzewczym.

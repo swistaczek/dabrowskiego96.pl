@@ -8,19 +8,15 @@ tags:
   - ciepłomierze
   - modernizacja
   - zamówienia
-excerpt: "Wspólnota Mieszkaniowa Dąbrowskiego 96 ogłasza zapytanie ofertowe na dostawę i montaż 44 ciepłomierzy ultradźwiękowych wraz z demontażem 123 podzielników ciepła."
+excerpt: "Zapytanie ofertowe z 2025 r. na 44 ciepłomierze. Nieaktualne, ofert nie przyjmujemy. Podzielniki ciepła wymieni ista."
 ---
+
+**Zapytanie nieaktualne.** Ofert nie przyjmujemy. W marcu 2026 r. projekt ciepłomierzy został wstrzymany. Do końca 2026 r. firma ista ma wymienić podzielniki ciepła na nowe i dalej będzie rozliczać ogrzewanie. Więcej na stronie [Bieżące sprawy i plany](/sprawy-i-plany/).
+{: .notice--warning}
 
 Szanowni Mieszkańcy i Wykonawcy,
 
 Wspólnota Mieszkaniowa Dąbrowskiego 96 ogłasza **zapytanie ofertowe** na kompleksową usługę dostawy i montażu ciepłomierzy w naszym budynku.
-
-## Cel modernizacji
-
-Przechodzimy na nowoczesny system rozliczania ciepła oparty na **rzeczywistych pomiarach** zamiast szacunkowych wskazań podzielników. To oznacza:
-- Sprawiedliwsze rozliczenia
-- Niższe koszty ogrzewania
-- Zgodność z najnowszymi przepisami
 
 ## Zakres prac
 
@@ -50,7 +46,3 @@ Pełna specyfikacja zapytania ofertowego oraz wszystkie szczegóły techniczne d
 
 **Zarząd Wspólnoty**  
 📧 zarzad@dabrowskiego96.pl
-
----
-
-*Zapraszamy wszystkich zainteresowanych wykonawców do składania ofert. Wspólnie zadbajmy o modernizację naszego budynku!*
