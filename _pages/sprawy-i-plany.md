@@ -60,7 +60,7 @@ Plan roboczy wygląda tak: projekt zimą 2026/2027, uchwała właścicieli wiosn
 
 ## Głosowanie nad uchwałami 2026
 
-Właściciele głosują w e-kartotece nad sześcioma tegorocznymi uchwałami. Według zestawienia administracji z 14 października uchwały 2, 3, 5 i 6 nadal nie mają wymaganej większości. Wyników uchwał 1 i 4 administracja jeszcze nie podała, więc jeśli nie głosowaliście, prosimy o głos nad wszystkimi sześcioma. Zagłosujcie do 30 listopada 2026 r., żeby protokół był gotowy przed końcem roku. Czego dotyczą uchwały i jak zagłosować, piszemy [we wpisie z 12 października]({% post_url 2026-10-12-zaglosuj-w-e-kartotece %}).
+Właściciele głosują w e-kartotece nad sześcioma tegorocznymi uchwałami. Według zestawienia administracji z 14 października uchwały 2, 3, 5 i 6 nadal nie mają wymaganej większości. Wyniki uchwał 1 i 4 nie są jeszcze potwierdzone, więc jeśli nie głosowaliście, prosimy o głos nad wszystkimi sześcioma. Zagłosujcie do 30 listopada 2026 r., żeby protokół był gotowy przed końcem roku. Czego dotyczą uchwały i jak zagłosować, piszemy [we wpisie z 12 października]({% post_url 2026-10-12-zaglosuj-w-e-kartotece %}).
 
 ## Co możecie zrobić
 
