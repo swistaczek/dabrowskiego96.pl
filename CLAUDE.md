@@ -75,6 +75,12 @@ toc: false  # Set to true for table of contents
 ---
 ```
 
+### Short links (for SMS)
+Long URLs, especially ones with Polish characters percent-encoded (`og%C5%82oszenia`), are not used in SMS: on 2026-10-28 the carrier rejected every SMS carrying such a link. For SMS create a short link on this site instead, e.g. `dabrowskiego96.pl/5zl`:
+- one root file per link, `<name>.html`, front matter `permalink: /<name>/`, `layout: null`, `sitemap: false`;
+- body: `<meta http-equiv="refresh">` plus `location.replace()` to the target, `rel="canonical"` to the target, `noindex`, and a plain `<a>` fallback (see `5zl.html`);
+- name: short, lowercase ASCII, no Polish characters; the plugin `jekyll-redirect-from` is not enabled, so do not use `redirect_from`.
+
 ### Navigation Updates
 When adding new pages, update `_data/navigation.yml`:
 ```yaml
