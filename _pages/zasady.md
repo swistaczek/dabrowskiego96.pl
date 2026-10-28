@@ -29,7 +29,7 @@ Części wspólne to między innymi klatki schodowe i korytarze, podwórko, zapl
 
 ## Głosowania i zgłoszenia
 
-- **Uchwały.** Głosujemy w e-kartotece, internetowym systemie zarządcy. Tak ustaliliśmy na zebraniu 30 marca 2026. Jeśli nie macie loginu, napiszcie do zarządcy. Głos wysłany e-mailem się nie liczy. Uchwała przechodzi, gdy poprą ją właściciele, którzy mają razem ponad połowę udziałów.
+- **Uchwały.** Głosujemy w e-kartotece, internetowym systemie zarządcy. Tak ustaliliśmy na zebraniu 30 marca 2026. Jeśli nie macie loginu, napiszcie do zarządcy. Od 28 października 2026 administracja przyjmuje też głosy mailem na biuro@nieruchomoscipk.pl: numer uchwały, za lub przeciw, imię i nazwisko właściciela, numer telefonu. Uchwała przechodzi, gdy poprą ją właściciele, którzy mają razem ponad połowę udziałów.
 - **Usterki i awarie.** Zgłaszajcie je zarządcy. Kontakt jest niżej.
 
 ## Jeśli czegoś tu nie ma
