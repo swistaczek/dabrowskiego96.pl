@@ -1,6 +1,6 @@
 ---
 title: "Przejście wzdłuż płotu na podwórku znowu wolne"
-date: 2026-10-28T12:00:00+01:00
+date: 2026-10-28T11:00:00+01:00
 categories:
   - ogłoszenia
 tags:
