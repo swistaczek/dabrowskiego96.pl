@@ -89,6 +89,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dabrowskiego96"
+    - label: "Czego oczekujemy od zarządcy"
+      icon: "fas fa-fw fa-clipboard-list"
+      url: "https://dabrowskiego96.pl/oczekiwania-wobec-zarzadcy/"
 
 # SEO Related
 url: "https://dabrowskiego96.pl"
