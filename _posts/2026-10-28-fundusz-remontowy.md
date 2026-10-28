@@ -1,6 +1,8 @@
 ---
 title: "Uchwała 5/2026: skąd 5 zł na fundusz remontowy i na co pójdą pieniądze"
 date: 2026-10-28T10:00:00+01:00
+redirect_from:
+  - /5zl/
 categories:
   - ogłoszenia
 tags:
