@@ -20,6 +20,7 @@ Gdy się ochłodzi, węzeł sam zaczyna grzać mocniej. Budynek i woda w instala
 Co możesz zrobić:
 
 - ustaw zawory przy kaloryferach na „5”. Zawór nie podniesie temperatury wody, ale nie będzie jej ograniczał;
+- odpowietrz kaloryfer, jeśli na górze jest zimny, a na dole ciepły, albo słychać w nim bulgotanie. Potrzebny jest kluczyk do odpowietrzania, najczęściej z kwadratem 5×5 mm, np. [taki na Allegro](https://allegro.pl/oferta/kluczyk-klucz-do-odpowietrzania-grzejnika-kaloryfera-5x5mm-18578211091?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=1ab3fccd-1461-4521-a285-ec379e2523fa&utm_content=92b6dce2c599#){:rel="sponsored nofollow"} (link afiliacyjny). Odkręcaj powoli, z naczyniem albo szmatką pod zaworem, i zakręć, gdy zamiast powietrza poleci woda;
 - jeśli przy chłodnej pogodzie kaloryfery są zimne przez kilka godzin, napisz na [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl): numer mieszkania, dzień i godzina, które kaloryfery. Zgłoszenia pomogą ocenić, czy trzeba zmienić ustawienia węzła.
 
 Dokładne ustawienia węzła, czyli przy jakiej temperaturze na zewnątrz włącza grzanie i jak mocno grzeje, uzupełnimy, gdy przekaże je serwis.
