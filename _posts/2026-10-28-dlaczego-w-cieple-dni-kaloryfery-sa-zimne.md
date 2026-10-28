@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-28T16:00:00+01:00
+last_modified_at: 2026-10-28T20:05:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -64,7 +64,6 @@ Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instala
 
 - HydroGaz24 Robert Kozka, Wilda, ma też podstronę o Jeżycach: [508 261 086](tel:+48508261086)
 - Tom-Gaz-Serwis, Nowe Miasto: [501 259 056](tel:+48501259056)
-- Zakład Instalacyjny Wod-Kan-Co-Gaz Paweł Kostyk, Jeżyce: [601 770 848](tel:+48601770848)
 - Usługi Instalacyjne Bogusław Kozłowski, Jeżyce: [501 738 349](tel:+48501738349)
 - Zakład Instalacji Sanitarnych Wojciech Tonder, Jeżyce: [501 259 655](tel:+48501259655)
 - HydroKran, na stronie wymienia diagnostykę zaworów termostatycznych: [733 713 204](tel:+48733713204)
