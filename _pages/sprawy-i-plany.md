@@ -34,6 +34,8 @@ Pełny remont dachu planujemy na wiosnę 2027 r., jeśli właściciele podejmą 
 
 Węzeł cieplny stoi w piwnicy. Przez niego ciepło z miejskiej sieci Veolii trafia do naszych kaloryferów i do ciepłej wody. W lipcu 2026 r. pękł w nim zawór i woda zalała piwnicę. We wrześniu wymieniono pompę ogrzewania.
 
+Jak ustawiony jest węzeł i dlaczego w ciepłe dni kaloryfery bywają zimne, piszemy [we wpisie o ogrzewaniu]({% post_url 2026-10-28-dlaczego-w-cieple-dni-kaloryfery-sa-zimne %}). Ogrzewanie wyłącza się przy ok. +15°C na zewnątrz.
+
 Chcemy, żeby węzeł przejęła Veolia. W sierpniu 2026 r. Veolia obejrzała węzeł i odmówiła przejęcia. Podała kilka powodów, między innymi słabą wentylację i braki w instalacji elektrycznej.
 
 - Fachowiec ma przygotować listę pozostałych prac z cenami.
