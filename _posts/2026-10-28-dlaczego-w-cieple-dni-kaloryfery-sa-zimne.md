@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-28T13:45:00+01:00
+last_modified_at: 2026-10-28T15:30:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -41,6 +41,28 @@ Serwis dodał, że chłodny kaloryfer nie zawsze wynika z ustawień węzła. Zna
 - ustaw zawory przy kaloryferach na „5”. Zawór nie podniesie temperatury wody, ale nie będzie jej ograniczał;
 - odpowietrz kaloryfer, jeśli na górze jest zimny, a na dole ciepły, albo słychać w nim bulgotanie. Potrzebny jest kluczyk do odpowietrzania, najczęściej z kwadratem 5×5 mm, np. [taki na Allegro](https://allegro.pl/oferta/kluczyk-klucz-do-odpowietrzania-grzejnika-kaloryfera-5x5mm-18578211091?utm_medium=afiliacja&utm_source=ctr_2&utm_campaign=1ab3fccd-1461-4521-a285-ec379e2523fa&utm_content=92b6dce2c599#){:rel="sponsored nofollow"} (link afiliacyjny). Odkręcaj powoli, z naczyniem albo szmatką pod zaworem, i zakręć, gdy zamiast powietrza poleci woda;
 - jeśli przy chłodnej pogodzie (poniżej ok. +15°C) kaloryfery są zimne przez kilka godzin, napisz na [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl): numer mieszkania, dzień i godzina, które kaloryfery. Zgłoszenia pomogą ocenić, czy trzeba zmienić ustawienia węzła.
+
+## Pytania i odpowiedzi
+
+### Kaloryfer hałasuje na 2, 3 i 4, a na 1 i 5 jest cicho. Co to może być?
+
+Najczęściej zawór termostatyczny, przez który woda płynie w złą stronę. Na korpusie zaworu jest strzałka z kierunkiem przepływu. Zawór powinien być na zasilaniu, czyli na rurze, którą gorąca woda wpływa do kaloryfera, a woda powinna płynąć zgodnie ze strzałką. Jeśli przy montażu zamieniono zasilanie z powrotem, zwykły zawór stuka albo głośno szumi. Producenci zaworów piszą o tym wprost i mają w ofercie zawory do odwrotnego kierunku przepływu, które „zapobiegają odgłosom stukania w przypadku pomylenia zasilania z powrotem” ([IMI Heimeier](https://katalog-respol.ik.pl/pliki/HEIMEIER%20%20%28IMI%20HYDRONIC%29/For-Reversed-flow-direction_PL_low.pdf){:rel="nofollow"}).
+
+Dlaczego tylko na 2–4? Na 5 zawór jest otwarty do końca, a na 1 prawie zamknięty. Na pozycjach pośrednich zawór jest przymknięty i dławi przepływ. Gdy woda płynie pod prąd, grzybek zaworu zaczyna wtedy drgać i uderzać w gniazdo.
+
+Powietrze w kaloryferze daje raczej bulgotanie i szum, który nie zależy od ustawienia pokrętła.
+
+**Co zrobić:**
+
+- umów hydraulika. Sprawdzi strzałkę na zaworze i to, która rura przy kaloryferze jest gorąca;
+- naprawa to zwykle przełożenie zaworu na właściwą stronę albo zawór lub wkładka do odwrotnego przepływu. W części zaworów wkładkę da się wymienić specjalnym narzędziem bez spuszczania wody;
+- jeśli kaloryfer nie ma zaworów odcinających i trzeba spuścić wodę z pionu, najpierw zgłoś to administracji. Bez ogrzewania zostaną wtedy też inne mieszkania na tym pionie;
+- nie zdejmuj podzielnika kosztów ogrzewania i nie zrywaj plomb. Jeśli hydraulik musi zdjąć kaloryfer, zgłoś to wcześniej administracji;
+- po wizycie napisz na [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl), co hydraulik znalazł i co zrobił.
+
+Hydraulika umawiasz sam. Kontakty do firm z okolicy dopiszemy tutaj, gdy firmy zgodzą się na podanie numeru.
+
+Druga możliwa przyczyna to zbyt duża różnica ciśnień w instalacji. Wtedy zawór szumi albo gwiżdże na przymkniętych pozycjach, nawet gdy jest dobrze podłączony. Jeśli hydraulik stwierdzi, że zawór jest podłączony prawidłowo, albo ten sam objaw jest w kilku mieszkaniach, napisz do nas. Wtedy sprawdzimy węzeł cieplny.
 
 **Zarząd Wspólnoty Mieszkaniowej**  
 **Dąbrowskiego 96/96A**
