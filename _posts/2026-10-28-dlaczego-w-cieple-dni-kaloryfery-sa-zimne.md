@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-28T20:10:00+01:00
+last_modified_at: 2026-10-28T20:25:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -76,7 +76,7 @@ Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instala
 - Jusik Instalacje, Wargowo (gm. Czerwonak): [724 704 777](tel:+48724704777)
 - Zakład Instalacji Sanitarnych C.O. Gaz Robert Hanebom, Rataje: [601 329 461](tel:+48601329461)
 - Alkan Pogotowie Hydrauliczne, wod-kan: [503 373 736](tel:+48503373736)
-- Hydraulika Daniel Jamro, wod-kan: [530 148 287](tel:+48530148287)
+- Hydraulika Daniel Jamro, wod-kan, grzejnikami się nie zajmuje: [530 148 287](tel:+48530148287)
 
 Jeśli firma nie chce być na tej liście, usuniemy ją.
 
