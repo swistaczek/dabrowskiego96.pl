@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-28T15:30:00+01:00
+last_modified_at: 2026-10-28T16:00:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -60,7 +60,16 @@ Powietrze w kaloryferze daje raczej bulgotanie i szum, który nie zależy od ust
 - nie zdejmuj podzielnika kosztów ogrzewania i nie zrywaj plomb. Jeśli hydraulik musi zdjąć kaloryfer, zgłoś to wcześniej administracji;
 - po wizycie napisz na [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl), co hydraulik znalazł i co zrobił.
 
-Hydraulika umawiasz sam. Kontakty do firm z okolicy dopiszemy tutaj, gdy firmy zgodzą się na podanie numeru.
+Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instalacjami wodnymi i grzewczymi. Znaleźliśmy je w internecie 28 października 2026 r. Wspólnota z nimi nie współpracuje i ich nie poleca. Cenę i termin ustalasz z firmą.
+
+- HydroGaz24 Robert Kozka, Wilda, ma też podstronę o Jeżycach: [508 261 086](tel:+48508261086)
+- Tom-Gaz-Serwis, Nowe Miasto: [501 259 056](tel:+48501259056)
+- Zakład Instalacyjny Wod-Kan-Co-Gaz Paweł Kostyk, Jeżyce: [601 770 848](tel:+48601770848)
+- Usługi Instalacyjne Bogusław Kozłowski, Jeżyce: [501 738 349](tel:+48501738349)
+- Zakład Instalacji Sanitarnych Wojciech Tonder, Jeżyce: [501 259 655](tel:+48501259655)
+- HydroKran, na stronie wymienia diagnostykę zaworów termostatycznych: [733 713 204](tel:+48733713204)
+
+Jeśli firma nie chce być na tej liście, usuniemy ją.
 
 Druga możliwa przyczyna to zbyt duża różnica ciśnień w instalacji. Wtedy zawór szumi albo gwiżdże na przymkniętych pozycjach, nawet gdy jest dobrze podłączony. Jeśli hydraulik stwierdzi, że zawór jest podłączony prawidłowo, albo ten sam objaw jest w kilku mieszkaniach, napisz do nas. Wtedy sprawdzimy węzeł cieplny.
 
