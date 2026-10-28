@@ -13,7 +13,7 @@ Na tej stronie piszemy krótko, czym wspólnota zajmuje się teraz i co planuje 
 
 | Kiedy | Co |
 |---|---|
-| do 30 listopada 2026 | prosimy o brakujące głosy nad uchwałami 2026 |
+| do 30 listopada 2026 | prosimy o brakujące głosy nad uchwałami 5 i 6/2026 |
 | między 30 listopada a 7 grudnia 2026 | planowany początek prac w węźle cieplnym (3–4 dni robocze) |
 | przed zimą 2026/2027 | doraźna naprawa dachu oficyny 96a |
 | do 31 grudnia 2026 | wymiana podzielników ciepła w mieszkaniach |
@@ -60,7 +60,7 @@ Plan roboczy wygląda tak: projekt zimą 2026/2027, uchwała właścicieli wiosn
 
 ## Głosowanie nad uchwałami 2026
 
-Właściciele głosują w e-kartotece nad sześcioma tegorocznymi uchwałami. Według zestawienia administracji z 14 października uchwały 2, 3, 5 i 6 nadal nie mają wymaganej większości. Wyniki uchwał 1 i 4 nie są jeszcze potwierdzone, więc jeśli nie głosowaliście, prosimy o głos nad wszystkimi sześcioma. Zagłosujcie do 30 listopada 2026 r., żeby protokół był gotowy przed końcem roku. Czego dotyczą uchwały i jak zagłosować, piszemy [we wpisie z 12 października]({% post_url 2026-10-12-zaglosuj-w-e-kartotece %}).
+28 października 2026 r. administracja przysłała protokoły: uchwały 1–4/2026 (sprawozdanie za 2025, plan i opłaty na 2026, absolutorium, wynik za 2025) zostały podjęte. Nadal głosujemy nad uchwałami 5 (fundusz remontowy 5,00 zł za m²) i 6 (monitoring). Zagłosujcie do 30 listopada 2026 r., żeby protokół był gotowy przed końcem roku. Wyniki i sposób głosowania podajemy [we wpisie z 28 października]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
 
 ## Co możecie zrobić
 
