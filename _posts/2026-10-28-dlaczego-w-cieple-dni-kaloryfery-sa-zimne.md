@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-28T20:25:00+01:00
+last_modified_at: 2026-10-29T08:36:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -70,7 +70,6 @@ Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instala
 - Hydraulik Alex, ma podstronę o Jeżycach: [791 119 472](tel:+48791119472)
 - Twój Hydraulik 24, Stare Miasto, na stronie wymienia naprawę i odpowietrzanie grzejników: [886 373 969](tel:+48886373969)
 - Terma-Pro Systemy Ciepła, Grunwald: [516 775 455](tel:+48516775455)
-- Technika Grzewcza Roman Mądrawski, na stronie wymienia grzejniki i zawory: [691 035 270](tel:+48691035270)
 - Hydraf, Poznań: [788 931 535](tel:+48788931535)
 - Usługi Instalacyjno-Sanitarne Mirosław Puczkarski, Luboń: [605 229 377](tel:+48605229377)
 - Jusik Instalacje, Wargowo (gm. Czerwonak): [724 704 777](tel:+48724704777)
