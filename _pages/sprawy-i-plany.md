@@ -7,13 +7,12 @@ toc: true
 ---
 Na tej stronie piszemy krótko, czym wspólnota zajmuje się teraz i co planuje na najbliższe 12 miesięcy. To są plany, więc terminy mogą się przesunąć. Gdy trzeba będzie coś zrobić w konkretnym dniu, na przykład wpuścić montera do mieszkania, napiszemy o tym osobno w [aktualnościach](/posts/).
 
-**Stan na 24 października 2026 r.**
+**Stan na 2 listopada 2026 r.**
 
 ## Plan na 12 miesięcy
 
 | Kiedy | Co |
 |---|---|
-| do 30 listopada 2026 | prosimy o brakujące głosy nad uchwałami 5 i 6/2026 |
 | między 30 listopada a 7 grudnia 2026 | planowany początek prac w węźle cieplnym (3–4 dni robocze) |
 | przed zimą 2026/2027 | doraźna naprawa dachu oficyny 96a |
 | do 31 grudnia 2026 | wymiana podzielników ciepła w mieszkaniach |
@@ -62,11 +61,10 @@ Plan roboczy wygląda tak: projekt zimą 2026/2027, uchwała właścicieli wiosn
 
 ## Głosowanie nad uchwałami 2026
 
-28 października 2026 r. administracja przysłała protokoły: uchwały 1–4/2026 (sprawozdanie za 2025, plan i opłaty na 2026, absolutorium, wynik za 2025) zostały podjęte. Nadal głosujemy nad uchwałami 5 (fundusz remontowy 5,00 zł za m²) i 6 (monitoring). Zagłosujcie do 30 listopada 2026 r., żeby protokół był gotowy przed końcem roku. Wyniki i sposób głosowania podajemy [we wpisie z 28 października]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
+Wszystkie uchwały na 2026 rok są podjęte. 28 października 2026 r. administracja przysłała protokoły uchwał 1–4/2026 (sprawozdanie za 2025, plan i opłaty na 2026, absolutorium, wynik za 2025), a 2 listopada uchwał 5 (fundusz remontowy 5,00 zł za m²) i 6 (monitoring). Wyniki i to, co z nich wynika, podajemy [we wpisie o uchwałach]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
 
 ## Co możecie zrobić
 
-- **Zagłosujcie**, jeśli jesteście właścicielami. Głos oddajecie w e-kartotece, najlepiej do 30 listopada. Jeśli nie macie loginu, napiszcie do administracji.
 - **Wpuśćcie montera podzielników** tylko w terminie z ogłoszenia na klatce i w aktualnościach. Jeśli ktoś przyjdzie bez zapowiedzi i powoła się na ista albo wspólnotę, nie wpuszczajcie go i zadzwońcie do administracji. Jeśli wynajmujecie mieszkanie, uprzedźcie najemców.
 - **Zgłaszajcie awarie i usterki** administracji. Gdy czuć gaz albo komuś grozi niebezpieczeństwo, dzwońcie od razu pod numer alarmowy 112.
 - **Piszcie do zarządu**, jeśli macie pytania albo uwagi do planów.

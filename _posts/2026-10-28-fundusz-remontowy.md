@@ -1,6 +1,7 @@
 ---
 title: "Uchwała 5/2026: skąd 5 zł na fundusz remontowy i na co pójdą pieniądze"
 date: 2026-10-28T10:00:00+01:00
+last_modified_at: 2026-11-02T14:00:00+01:00
 redirect_from:
   - /5zl/
 categories:
@@ -12,16 +13,16 @@ tags:
   - e-kartoteka
   - właściciele
 excerpt: "Uchwała 5/2026 podnosi zaliczkę na fundusz remontowy z 3,20 zł do 5,00 zł za m². Piszemy, ile to kosztuje, na co pójdą pieniądze i skąd ta kwota."
-description: "Uchwała 5/2026 Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu: fundusz remontowy 5,00 zł/m², koszt dla mieszkań 40 i 60 m², lista prac z przeglądu budynku, prośba o głos w e-kartotece."
+description: "Uchwała 5/2026 Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu, podjęta 2.11.2026: fundusz remontowy 5,00 zł/m², koszt dla mieszkań 40 i 60 m², lista prac z przeglądu budynku."
 ---
 
 Szanowni Państwo,
 
-w e-kartotece trwa głosowanie nad uchwałą 5/2026. Uchwała podnosi zaliczkę na fundusz remontowy z 3,20 zł do 5,00 zł miesięcznie za m² powierzchni użytkowej lokalu. Wchodzi w życie z dniem podjęcia i nie przewiduje dopłat wstecz.
+2 listopada 2026 r. uchwała 5/2026 została podjęta: głosowali za nią właściciele z 55,65% udziałów ([wyniki wszystkich uchwał]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %})). Uchwała podnosi zaliczkę na fundusz remontowy z 3,20 zł do 5,00 zł miesięcznie za m² powierzchni użytkowej lokalu. Weszła w życie z dniem podjęcia i nie przewiduje dopłat wstecz. Nowe naliczenia dla każdego lokalu wyśle właścicielom księgowa administracji po 4 listopada.
 
 ## Ile to kosztuje
 
-| Mieszkanie | Dziś (3,20 zł/m²) | Po zmianie (5,00 zł/m²) | Różnica |
+| Mieszkanie | Dotąd (3,20 zł/m²) | Od uchwały (5,00 zł/m²) | Różnica |
 |---|---|---|---|
 | 40 m² | 128 zł | 200 zł | +72 zł |
 | 60 m² | 192 zł | 300 zł | +108 zł |
@@ -37,7 +38,7 @@ We wrześniu 2026 r. był obowiązkowy przegląd pięcioletni budynku (art. 62 P
 - **Pozostałe zalecenia z przeglądu**, do zrobienia przed kolejnym przeglądem we wrześniu 2027 r.: rynny, dziura w pokryciu wiaty śmietnikowej, skorodowane kominki wentylacyjne, czapy kominowe z płyty OSB, tynk na elewacji i na klatce, opaska wokół budynku, kostka przy oficynie.
 - **Ściana oficyny od strony sąsiedniej posesji:** izolacja fundamentu i ocieplenie, według kosztorysu ok. 50 tys. zł. Te prace wymagają wejścia na teren sąsiada, dlatego zrobimy je później.
 - **Ściana przy wejściu od ul. Dąbrowskiego i drzwi wejściowe.** Ściana jest zawilgocona, bo od strony ulicy nie ma izolacji. Drzwi trzeba naprawić albo wymienić. Wycen jeszcze nie ma.
-- **Monitoring części wspólnych.** Jeśli przejdzie uchwała 6/2026, zapłacimy za niego z funduszu ok. 12 tys. zł brutto.
+- **Monitoring części wspólnych.** Uchwała 6/2026 też została podjęta, więc zapłacimy za niego z funduszu ok. 12 tys. zł brutto.
 
 ## Skąd 5 zł
 
@@ -51,11 +52,11 @@ Uchwała o remoncie mówi, co i za ile robimy, ale pieniądze na ten remont musz
 
 Wiemy, że część właścicieli wynajmuje mieszkania i nie chce podnosić czynszu najemcom. Zaliczkę na fundusz płaci właściciel lokalu. Według ustawy o własności lokali właściciel uczestniczy w kosztach zarządu nieruchomością wspólną, a należą do nich wydatki na remonty (art. 13 ust. 1, art. 14 i art. 15). Pieniądze z funduszu idą na części wspólne budynku, których współwłaścicielem jest każdy właściciel lokalu. Czy doliczyć tę kwotę do czynszu, decyduje właściciel.
 
-## Prośba
+## Pytania
 
-Prosimy o głos za uchwałą 5/2026 w e-kartotece do 30 listopada 2026 r. Login i hasło wydaje zarządca: Nieruchomości Patrycja Kucharska, biuro@nieruchomoscipk.pl, tel. 507 369 487. Pytania do zarządu: zarzad@dabrowskiego96.pl.
+Dziękujemy za głosy. Pytania o naliczenia: administracja, Nieruchomości Patrycja Kucharska, biuro@nieruchomoscipk.pl, tel. 507 369 487. Pytania do zarządu: zarzad@dabrowskiego96.pl.
 
-Pismo w PDF: [pismo-fundusz-remontowy.pdf](/assets/pliki/pismo-fundusz-remontowy.pdf)
+Pismo z października, wysłane przed podjęciem uchwały, w PDF: [pismo-fundusz-remontowy.pdf](/assets/pliki/pismo-fundusz-remontowy.pdf)
 
 **Zarząd Wspólnoty Mieszkaniowej**  
 **Dąbrowskiego 96/96A**

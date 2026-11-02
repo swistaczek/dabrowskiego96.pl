@@ -12,6 +12,8 @@ excerpt: "Sześć tegorocznych uchwał wciąż czeka na brakujące głosy, więc
 description: "Głosowanie nad uchwałami Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu w 2026 roku: czego dotyczy sześć uchwał i jak oddać głos w e-kartotece."
 ---
 
+**Aktualizacja 2 listopada 2026 r.:** wszystkie sześć uchwał zostało podjętych. Wyniki podajemy [we wpisie o uchwałach]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
+
 **Aktualizacja 28.10.2026:** uchwały 1–4/2026 zostały podjęte. Głosujemy dalej nad uchwałami 5 i 6, w e-kartotece albo mailem do administracji. Wyniki i szczegóły są [we wpisie z 28 października]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
 
 Szanowni Sąsiedzi,
