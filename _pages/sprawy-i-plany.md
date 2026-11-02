@@ -25,7 +25,7 @@ Na tej stronie piszemy krótko, czym wspólnota zajmuje się teraz i co planuje 
 
 Przecieka dach oficyny 96a, czyli niskiego budynku w podwórzu. Przegląd budynku we wrześniu 2026 r. wskazał miejsca przecieków: przy kominie i nad rynną.
 
-Zarząd zgodził się na doraźną naprawę tych miejsc przed zimą. Teraz szukamy dekarza i terminu.
+Zarząd zgodził się na doraźną naprawę tych miejsc przed zimą. Teraz szukamy dekarza i terminu. Zapytanie ofertowe na naprawę doraźną i na remont: [dabrowskiego96.pl/dach](/przetarg-dach-oficyny/).
 
 Pełny remont dachu planujemy na wiosnę 2027 r., jeśli właściciele podejmą uchwałę. Gdy projekt uchwały będzie gotowy, poprosimy o głosy w e-kartotece.
 

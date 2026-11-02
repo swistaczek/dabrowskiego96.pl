@@ -7,7 +7,7 @@ image: /assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg
 toc: true
 ---
 
-**Zapytanie zakończone.** Oferty przyjmowaliśmy do 30 września 2025 r. Pełnego remontu na podstawie tego zapytania nie zleciliśmy. Przed zimą 2026/2027 planujemy doraźną naprawę dachu, a pełny remont na wiosnę 2027 r., po uchwale właścicieli. Więcej na stronie [Bieżące sprawy i plany](/sprawy-i-plany/).
+**Zapytanie zakończone.** Oferty przyjmowaliśmy do 30 września 2025 r. Pełnego remontu na podstawie tego zapytania nie zleciliśmy. Nowe zapytanie na ten dach, z listopada 2026 r., na naprawę doraźną i remont wiosną 2027 r., jest [tutaj](/przetarg-dach-oficyny/).
 {: .notice--warning}
 
 **Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu** zaprasza do składania ofert na kompleksowy remont dachu niskich budynków oficyny.
