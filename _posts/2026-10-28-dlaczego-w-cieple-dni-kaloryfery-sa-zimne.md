@@ -1,7 +1,7 @@
 ---
 title: "Dlaczego w ciepłe dni kaloryfery są zimne"
 date: 2026-10-28T11:15:00+01:00
-last_modified_at: 2026-10-30T09:26:00+01:00
+last_modified_at: 2026-11-02T14:00:00+01:00
 redirect_from:
   - /ogrzewanie/
 categories:
@@ -63,7 +63,7 @@ Powietrze w kaloryferze daje raczej bulgotanie i szum, który nie zależy od ust
 Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instalacjami wodnymi i grzewczymi. Znaleźliśmy je w internecie 28 października 2026 r. Wspólnota z nimi nie współpracuje i ich nie poleca. Cenę i termin ustalasz z firmą.
 
 - HydroGaz24 Robert Kozka, Wilda, ma też podstronę o Jeżycach: [508 261 086](tel:+48508261086)
-- Tom-Gaz-Serwis, Nowe Miasto: [501 259 056](tel:+48501259056)
+- Tom-Gaz-Serwis, Nowe Miasto, według firmy 300–600 zł, zależnie od tego, czy trzeba kuć: [501 259 056](tel:+48501259056)
 - Usługi Instalacyjne Bogusław Kozłowski, Jeżyce: [501 738 349](tel:+48501738349)
 - Zakład Instalacji Sanitarnych Wojciech Tonder, Jeżyce: [501 259 655](tel:+48501259655)
 - HydroKran, na stronie wymienia diagnostykę zaworów termostatycznych: [733 713 204](tel:+48733713204)
@@ -71,7 +71,7 @@ Hydraulika umawiasz sam. Poniżej firmy z Poznania, które zajmują się instala
 - Twój Hydraulik 24, Stare Miasto, na stronie wymienia naprawę i odpowietrzanie grzejników: [886 373 969](tel:+48886373969)
 - Terma-Pro Systemy Ciepła, Grunwald: [516 775 455](tel:+48516775455)
 - Hydraf, Poznań: [788 931 535](tel:+48788931535)
-- Usługi Instalacyjno-Sanitarne Mirosław Puczkarski, Luboń: [605 229 377](tel:+48605229377)
+- Usługi Instalacyjno-Sanitarne Mirosław Puczkarski, Luboń, według firmy dojazd z drobnymi regulacjami bez materiałów 320–400 zł netto, inne prace wycenia na miejscu: [605 229 377](tel:+48605229377)
 - Jusik Instalacje, Wargowo (gm. Czerwonak): [724 704 777](tel:+48724704777)
 - Zakład Instalacji Sanitarnych C.O. Gaz Robert Hanebom, Rataje: [601 329 461](tel:+48601329461)
 - Alkan Pogotowie Hydrauliczne, wod-kan, według firmy 300 zł za każdą rozpoczętą godzinę pracy: [503 373 736](tel:+48503373736)
