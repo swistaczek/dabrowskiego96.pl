@@ -1,7 +1,7 @@
 ---
 permalink: /przetargi/
 title: "Przetargi i Zapytania Ofertowe - Dąbrowskiego 96 Poznań"
-description: "Przetargi i zapytania ofertowe wspólnoty mieszkaniowej Dąbrowskiego 96/96A w Poznaniu. Brak otwartych zapytań. Zakończone: remont dachu oficyny 200m², montaż 44 ciepłomierzy."
+description: "Przetargi i zapytania ofertowe wspólnoty mieszkaniowej Dąbrowskiego 96/96A w Poznaniu. Otwarte: przegląd grzejników i regulacja ogrzewania (oferty do 16.11.2026). Zakończone: remont dachu oficyny 200m², montaż 44 ciepłomierzy."
 keywords: "przetargi Poznań, zapytania ofertowe wspólnota, remont dachu, montaż ciepłomierzy, Dąbrowskiego 96"
 image: /assets/images/przetargi-og.jpg
 toc: false
@@ -13,7 +13,15 @@ toc: false
   <h2>🟢 Aktywne przetargi</h2>
   
   <div class="tender-cards">
-    <p style="color: #6c757d; padding: 20px;">Teraz nie prowadzimy żadnego zapytania ofertowego.</p>
+    <div class="tender-card">
+      <div class="tender-meta">
+        <span class="tender-status status-active">Aktywne</span>
+        <span class="tender-deadline">Oferty do 16 listopada 2026 r.</span>
+      </div>
+      <h3>Przegląd grzejników i regulacja ogrzewania</h3>
+      <p>Przegląd podłączeń grzejników i zaworów termostatycznych w 44 lokalach, pomiar różnicy ciśnień w instalacji CO, protokół z zaleceniami i ceny jednostkowe poprawek.</p>
+      <a href="/przetarg-przeglad-grzejnikow/" class="btn">Zobacz szczegóły →</a>
+    </div>
   </div>
 </div>
 
