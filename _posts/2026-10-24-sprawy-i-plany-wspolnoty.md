@@ -11,7 +11,10 @@ tags:
   - wiata
 excerpt: "Na nowej stronie „Sprawy i plany” piszemy, czym wspólnota zajmuje się teraz i co planuje do jesieni 2027 r."
 description: "Bieżące sprawy i plany Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu: dach oficyny, węzeł cieplny, wymiana podzielników ciepła, nowa wiata z rowerownią."
+last_modified_at: 2026-11-12T08:00:00+01:00
 ---
+
+**Aktualizacja 12 listopada 2026 r.:** głosowanie jest zakończone, 2 listopada wszystkie uchwały na 2026 rok zostały podjęte ([wyniki]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %})). Prośba o głos do 30 listopada jest nieaktualna. Od 1 grudnia zmieniają się opłaty, a wyrównanie kosztów zarządu trzeba wpłacić do 31 grudnia ([wpis o opłatach]({% post_url 2026-11-12-nowe-oplaty-od-grudnia %})). Stan spraw na 12 listopada jest na stronie [Sprawy i plany](/sprawy-i-plany/).
 
 Szanowni Sąsiedzi,
 

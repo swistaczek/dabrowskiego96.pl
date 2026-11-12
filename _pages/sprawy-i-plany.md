@@ -1,20 +1,23 @@
 ---
 permalink: /sprawy-i-plany/
 title: "Bieżące sprawy i plany wspólnoty Dąbrowskiego 96"
-description: "Plany wspólnoty Dąbrowskiego 96/96A w Poznaniu na 12 miesięcy: dach oficyny, węzeł cieplny, nowe podzielniki ciepła, wiata z rowerownią, głosowanie."
-keywords: "wspólnota mieszkaniowa Dąbrowskiego 96, Jeżyce, Poznań, plany remontowe, remont dachu oficyny, węzeł cieplny Veolia, wymiana podzielników ciepła, ista, wiata śmietnikowa, rowerownia, uchwały, e-kartoteka"
+description: "Plany wspólnoty Dąbrowskiego 96/96A w Poznaniu na 12 miesięcy: dach oficyny, węzeł cieplny, nowe podzielniki ciepła, wiata z rowerownią, opłaty od grudnia 2026, ubezpieczenie budynku."
+keywords: "wspólnota mieszkaniowa Dąbrowskiego 96, Jeżyce, Poznań, plany remontowe, remont dachu oficyny, węzeł cieplny Veolia, wymiana podzielników ciepła, ista, wiata śmietnikowa, rowerownia, uchwały, e-kartoteka, fundusz remontowy, wyrównanie opłat, ubezpieczenie budynku"
 toc: true
 ---
 Na tej stronie piszemy krótko, czym wspólnota zajmuje się teraz i co planuje na najbliższe 12 miesięcy. To są plany, więc terminy mogą się przesunąć. Gdy trzeba będzie coś zrobić w konkretnym dniu, na przykład wpuścić montera do mieszkania, napiszemy o tym osobno w [aktualnościach](/posts/).
 
-**Stan na 2 listopada 2026 r.**
+**Stan na 12 listopada 2026 r.**
 
 ## Plan na 12 miesięcy
 
 | Kiedy | Co |
 |---|---|
-| między 30 listopada a 7 grudnia 2026 | planowany początek prac w węźle cieplnym (3–4 dni robocze) |
 | przed zimą 2026/2027 | doraźna naprawa dachu oficyny 96a |
+| do 30 listopada 2026 | oferty firm na remont dachu oficyny |
+| między 30 listopada a 7 grudnia 2026 | planowany początek prac w węźle cieplnym (3–4 dni robocze) |
+| od 1 grudnia 2026 | nowe stawki na fundusz remontowy i koszty zarządu |
+| do 31 grudnia 2026 | wpłata wyrównania kosztów zarządu za styczeń–listopad 2026 |
 | do 31 grudnia 2026 | wymiana podzielników ciepła w mieszkaniach |
 | zima 2026/2027 | projekt nowej wiaty śmietnikowej z rowerownią |
 | wiosna 2027 | pełny remont dachu oficyny, po uchwale właścicieli |
@@ -25,9 +28,9 @@ Na tej stronie piszemy krótko, czym wspólnota zajmuje się teraz i co planuje 
 
 Przecieka dach oficyny 96a, czyli niskiego budynku w podwórzu. Przegląd budynku we wrześniu 2026 r. wskazał miejsca przecieków: przy kominie i nad rynną.
 
-Zarząd zgodził się na doraźną naprawę tych miejsc przed zimą. Teraz szukamy dekarza i terminu. Zapytanie ofertowe na naprawę doraźną i na remont: [dabrowskiego96.pl/dach](/przetarg-dach-oficyny/).
+Zarząd zgodził się na doraźną naprawę tych miejsc przed zimą. Naprawę organizuje administracja z dekarzem, z którym współpracuje.
 
-Pełny remont dachu planujemy na wiosnę 2027 r., jeśli właściciele podejmą uchwałę. Gdy projekt uchwały będzie gotowy, poprosimy o głosy w e-kartotece.
+Pełny remont dachu planujemy na wiosnę 2027 r., jeśli właściciele podejmą uchwałę. Oferty na remont zbieramy do 30 listopada 2026 r.: [dabrowskiego96.pl/dach](/przetarg-dach-oficyny/). Na ich podstawie przygotujemy projekt uchwały i poprosimy o głosy w e-kartotece.
 
 ## Węzeł cieplny
 
@@ -35,11 +38,11 @@ Węzeł cieplny stoi w piwnicy. Przez niego ciepło z miejskiej sieci Veolii tra
 
 Jak ustawiony jest węzeł i dlaczego w ciepłe dni kaloryfery bywają zimne, piszemy [we wpisie o ogrzewaniu]({% post_url 2026-10-28-dlaczego-w-cieple-dni-kaloryfery-sa-zimne %}). Ogrzewanie wyłącza się przy ok. +15°C na zewnątrz.
 
-Chcemy, żeby węzeł przejęła Veolia. W sierpniu 2026 r. Veolia obejrzała węzeł i odmówiła przejęcia. Podała kilka powodów, między innymi słabą wentylację i braki w instalacji elektrycznej.
+Chcemy, żeby węzeł przejęła Veolia. W sierpniu 2026 r. Veolia obejrzała węzeł i odmówiła przejęcia. Podała kilka powodów, między innymi słabą wentylację i braki w instalacji elektrycznej. W październiku wspólnota zapytała Veolię na piśmie o warunki i koszt przejęcia. Czekamy na odpowiedź.
 
-- Fachowiec ma przygotować listę pozostałych prac z cenami.
-- Elektryk ma zlecenie na poprawienie instalacji w piwnicy.
+- Elektryk skończył prace w piwnicy i 22 października 2026 r. zrobił pomiary instalacji.
 - Instalator ma zacząć prace w pomieszczeniu węzła między 30 listopada a 7 grudnia. Zakres: nawiew świeżego powietrza, zlew i pompa do odprowadzania wody ze studzienki. Prace mają potrwać 3–4 dni robocze.
+- Przed ponownym wnioskiem do Veolii potrzebna jest jeszcze lista pozostałych prac z cenami.
 
 Gdy prace będą skończone, wspólnota znowu poprosi Veolię o przejęcie węzła. Planujemy to na wiosnę 2027 r.
 
@@ -47,7 +50,7 @@ Gdy prace będą skończone, wspólnota znowu poprosi Veolię o przejęcie węz�
 
 Wspólnota podpisała z firmą ista umowę na wymianę podzielników ciepła na kaloryferach. Ogrzewanie dalej będzie rozliczać ista. Nowe podzielniki są radiowe, więc odczyt będzie zdalny.
 
-- Montaż ma się skończyć do 31 grudnia 2026 r. Dokładny termin ustali ista, a my ogłosimy go na klatkach i w aktualnościach co najmniej 7 dni wcześniej.
+- Umowa jest już w ista. Montaż ma się skończyć do 31 grudnia 2026 r. Dokładnego terminu jeszcze nie znamy. Ogłosimy go na klatkach i w aktualnościach co najmniej 7 dni wcześniej.
 - Monter musi wejść do każdego mieszkania i lokalu, w którym są podzielniki.
 - Na montaż są dwa terminy. Trzecia wizyta jest płatna. Lokal, w którym nie da się zamontować nowych podzielników, będzie rozliczany jak lokal bez pomiaru. Według umowy z ista oznacza to najwyższe zużycie na m² w budynku.
 
@@ -63,8 +66,30 @@ Plan roboczy wygląda tak: projekt zimą 2026/2027, uchwała właścicieli wiosn
 
 Wszystkie uchwały na 2026 rok są podjęte. 28 października 2026 r. administracja przysłała protokoły uchwał 1–4/2026 (sprawozdanie za 2025, plan i opłaty na 2026, absolutorium, wynik za 2025), a 2 listopada uchwał 5 (fundusz remontowy 5,00 zł za m²) i 6 (monitoring). Wyniki i to, co z nich wynika, podajemy [we wpisie o uchwałach]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %}).
 
+## Opłaty od 1 grudnia 2026
+
+Uchwały 2 i 5/2026 zmieniają dwie stawki. 5 listopada 2026 r. księgowa administracji wysłała właścicielom zawiadomienia o nowych opłatach.
+
+| | styczeń–listopad 2026 | od 1 grudnia 2026 |
+|---|---|---|
+| fundusz remontowy | 3,20 zł za m² | 5,00 zł za m² |
+| koszty eksploatacyjne (koszty zarządu nieruchomością wspólną) | 2,82 zł za m² | 3,50 zł za m² |
+
+Pozostałe opłaty się nie zmieniają.
+
+- Koszty zarządu są wyrównane od stycznia, tak jak mówi uchwała 2: 0,68 zł za m² za każdy miesiąc od stycznia do listopada. Kwota dla lokalu jest w zawiadomieniu. Termin wpłaty: 31 grudnia 2026 r.
+- Wyrównanie można rozłożyć na raty. Wystarczy napisać do księgowości: [ksiegowosc@nieruchomoscipk.pl](mailto:ksiegowosc@nieruchomoscipk.pl).
+- Funduszu remontowego nie dopłacamy wstecz. Za listopad jest naliczony jeszcze po 3,20 zł za m².
+
+Szczegóły: [wpis o nowych opłatach]({% post_url 2026-11-12-nowe-oplaty-od-grudnia %}).
+
+## Ubezpieczenie budynku
+
+Budynek jest ubezpieczony w PZU na kolejny rok, od 10 października 2026 r. do 9 października 2027 r. Polisa jest opłacona.
+
 ## Co możecie zrobić
 
+- **Właściciele: wpłaćcie wyrównanie kosztów zarządu do 31 grudnia 2026 r.** Kwota jest w zawiadomieniu od księgowej z 5 listopada. Jeśli chcecie rozłożyć ją na raty, napiszcie do księgowości.
 - **Wpuśćcie montera podzielników** tylko w terminie z ogłoszenia na klatce i w aktualnościach. Jeśli ktoś przyjdzie bez zapowiedzi i powoła się na ista albo wspólnotę, nie wpuszczajcie go i zadzwońcie do administracji. Jeśli wynajmujecie mieszkanie, uprzedźcie najemców.
 - **Zgłaszajcie awarie i usterki** administracji. Gdy czuć gaz albo komuś grozi niebezpieczeństwo, dzwońcie od razu pod numer alarmowy 112.
 - **Piszcie do zarządu**, jeśli macie pytania albo uwagi do planów.
@@ -73,3 +98,4 @@ Wszystkie uchwały na 2026 rok są podjęte. 28 października 2026 r. administra
 
 - Zarząd wspólnoty: [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl)
 - Administracja (zarządca budynku): Nieruchomości Patrycja Kucharska, [biuro@nieruchomoscipk.pl](mailto:biuro@nieruchomoscipk.pl), tel. 507 369 487
+- Księgowość administracji (opłaty, wyrównanie, raty): [ksiegowosc@nieruchomoscipk.pl](mailto:ksiegowosc@nieruchomoscipk.pl)
