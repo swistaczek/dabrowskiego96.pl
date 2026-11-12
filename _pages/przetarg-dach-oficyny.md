@@ -3,13 +3,13 @@ permalink: /przetarg-dach-oficyny/
 redirect_from:
   - /dach/
 title: "Zapytanie ofertowe: dach oficyny, naprawa doraźna i remont | Dąbrowskiego 96 Poznań"
-description: "Zapytanie ofertowe Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu: dach płaski kryty papą, ok. 200 m². Naprawa doraźna w listopadzie 2026 (odpowiedź do 9.11) i remont wiosną 2027 (oferty do 30.11.2026)."
+description: "Zapytanie ofertowe Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Poznaniu: dach płaski kryty papą, ok. 200 m². Remont wiosną 2027 (oferty do 30.11.2026). Naprawa doraźna w listopadzie 2026 (termin odpowiedzi minął 9.11)."
 keywords: "dekarz Poznań, naprawa dachu płaskiego, papa termozgrzewalna, remont dachu, obróbki blacharskie, zapytanie ofertowe, wspólnota mieszkaniowa, Jeżyce, Dąbrowskiego 96"
 image: /assets/images/remont-dachu/stan-obecny-pokrycie-dachu.jpg
 toc: true
 ---
 
-**Naprawa doraźna: odpowiedź do 9 listopada 2026 r. Remont: oferty do 30 listopada 2026 r.** Można złożyć ofertę tylko na jedną część. Jak złożyć ofertę: punkt 6.
+**Remont: oferty do 30 listopada 2026 r.** Jak złożyć ofertę: punkt 6. Termin odpowiedzi na naprawę doraźną minął 9 listopada 2026 r. Naprawę organizuje administracja z dekarzem, z którym współpracuje.
 {: .notice--info}
 
 Wspólnota Mieszkaniowa Dąbrowskiego 96/96A w Poznaniu szuka dekarza do dachu oficyny. Potrzebujemy dwóch rzeczy:
@@ -61,6 +61,8 @@ Mieszkańcy wieczorami i w nocy słyszą drapanie między sufitem a dachem. Pode
 </div>
 
 ## 2. Część A: naprawa doraźna, listopad 2026
+
+Termin odpowiedzi na tę część minął 9 listopada 2026 r. Naprawę organizuje administracja z dekarzem, z którym współpracuje.
 
 Zakres według zaleceń z przeglądu budynku:
 
@@ -122,7 +124,7 @@ Do tego termin wykonania w dniach roboczych i okres gwarancji. Oczekujemy co naj
 
 ## 6. Jak złożyć ofertę
 
-- **Część A:** odpowiedź do 9 listopada 2026 r.
+- **Część A:** odpowiedź do 9 listopada 2026 r. Termin minął.
 - **Część B:** oferty do 30 listopada 2026 r.
 - **E-mail:** [biuro@nieruchomoscipk.pl](mailto:biuro@nieruchomoscipk.pl), do wiadomości [zarzad@dabrowskiego96.pl](mailto:zarzad@dabrowskiego96.pl)
 - **Temat:** „Oferta: dach oficyny Dąbrowskiego 96A”

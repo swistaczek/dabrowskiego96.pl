@@ -1,7 +1,7 @@
 ---
 permalink: /przetargi/
 title: "Przetargi i Zapytania Ofertowe - Dąbrowskiego 96 Poznań"
-description: "Przetargi i zapytania ofertowe wspólnoty mieszkaniowej Dąbrowskiego 96/96A w Poznaniu. Otwarte: dach oficyny, naprawa doraźna i remont (do 9.11 i 30.11.2026), przegląd grzejników i regulacja ogrzewania (oferty do 16.11.2026). Zakończone: remont dachu oficyny 200m², montaż 44 ciepłomierzy."
+description: "Przetargi i zapytania ofertowe wspólnoty mieszkaniowej Dąbrowskiego 96/96A w Poznaniu. Otwarte: dach oficyny, remont (oferty do 30.11.2026), przegląd grzejników i regulacja ogrzewania (oferty do 16.11.2026). Zakończone: remont dachu oficyny 200m², montaż 44 ciepłomierzy."
 keywords: "przetargi Poznań, zapytania ofertowe wspólnota, remont dachu, montaż ciepłomierzy, Dąbrowskiego 96"
 image: /assets/images/przetargi-og.jpg
 toc: false
@@ -16,10 +16,10 @@ toc: false
     <div class="tender-card">
       <div class="tender-meta">
         <span class="tender-status status-active">Aktywne</span>
-        <span class="tender-deadline">Naprawa doraźna: do 9 listopada 2026 r. Remont: do 30 listopada 2026 r.</span>
+        <span class="tender-deadline">Remont: oferty do 30 listopada 2026 r. Naprawa doraźna: termin minął 9 listopada 2026 r.</span>
       </div>
       <h3>Dach oficyny: naprawa doraźna i remont</h3>
-      <p>Dach płaski kryty papą, ok. 200 m². Naprawa doraźna w listopadzie 2026 r. w miejscach przecieków wskazanych w przeglądzie budynku. Remont wiosną 2027 r., w wariancie bez ocieplenia i z ociepleniem, po uchwale właścicieli.</p>
+      <p>Dach płaski kryty papą, ok. 200 m². Naprawa doraźna w listopadzie 2026 r. w miejscach przecieków wskazanych w przeglądzie budynku, organizuje ją administracja. Remont wiosną 2027 r., w wariancie bez ocieplenia i z ociepleniem, po uchwale właścicieli.</p>
       <a href="/przetarg-dach-oficyny/" class="btn">Zobacz szczegóły →</a>
     </div>
 

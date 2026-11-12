@@ -1,7 +1,7 @@
 ---
 title: "Uchwała 5/2026: skąd 5 zł na fundusz remontowy i na co pójdą pieniądze"
 date: 2026-10-28T10:00:00+01:00
-last_modified_at: 2026-11-02T14:00:00+01:00
+last_modified_at: 2026-11-12T08:00:00+01:00
 redirect_from:
   - /5zl/
 categories:
@@ -18,11 +18,11 @@ description: "Uchwała 5/2026 Wspólnoty Mieszkaniowej Dąbrowskiego 96/96A w Po
 
 Szanowni Państwo,
 
-2 listopada 2026 r. uchwała 5/2026 została podjęta: głosowali za nią właściciele z 55,65% udziałów ([wyniki wszystkich uchwał]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %})). Uchwała podnosi zaliczkę na fundusz remontowy z 3,20 zł do 5,00 zł miesięcznie za m² powierzchni użytkowej lokalu. Weszła w życie z dniem podjęcia i nie przewiduje dopłat wstecz. Nowe naliczenia dla każdego lokalu wyśle właścicielom księgowa administracji po 4 listopada.
+2 listopada 2026 r. uchwała 5/2026 została podjęta: głosowali za nią właściciele z 55,65% udziałów ([wyniki wszystkich uchwał]({% post_url 2026-10-28-uchwaly-1-4-2026-podjete %})). Uchwała podnosi zaliczkę na fundusz remontowy z 3,20 zł do 5,00 zł miesięcznie za m² powierzchni użytkowej lokalu. Weszła w życie z dniem podjęcia i nie przewiduje dopłat wstecz. 5 listopada księgowa administracji wysłała właścicielom nowe naliczenia: 5,00 zł za m² obowiązuje od 1 grudnia 2026 r., a za listopad fundusz jest jeszcze po 3,20 zł. Co jeszcze zmienia się w opłatach od grudnia, piszemy [we wpisie o nowych opłatach]({% post_url 2026-11-12-nowe-oplaty-od-grudnia %}).
 
 ## Ile to kosztuje
 
-| Mieszkanie | Dotąd (3,20 zł/m²) | Od uchwały (5,00 zł/m²) | Różnica |
+| Mieszkanie | Do listopada 2026 (3,20 zł/m²) | Od grudnia 2026 (5,00 zł/m²) | Różnica |
 |---|---|---|---|
 | 40 m² | 128 zł | 200 zł | +72 zł |
 | 60 m² | 192 zł | 300 zł | +108 zł |
